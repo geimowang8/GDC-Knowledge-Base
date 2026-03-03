@@ -1,0 +1,31 @@
+---
+title: "GDC19 Flash Forward: You Can Take an Arrow to the Knee and Still Be an Adventurer"
+video_id: WNWzYZ0utHM
+url: https://www.youtube.com/watch?v=WNWzYZ0utHM
+views: 5055
+year: 2019
+tags: [GDC, GameDev, Transcript]
+date_added: 2026-03-03
+---
+
+# GDC19 Flash Forward: You Can Take an Arrow to the Knee and Still Be an Adventurer
+
+## 视频信息
+
+- **视频 ID**: WNWzYZ0utHM
+- **观看次数**: 5055
+- **年份**: 2019
+
+## 视频链接
+
+[在 YouTube 上观看](https://www.youtube.com/watch?v=WNWzYZ0utHM)
+
+## 转录内容
+
+You know, you can take an arrow in the knee and still be an adventurer.
+Hello! Since you may not have been able to hear me yelling it across the mountaintops, did you know you can take an arrow in the knee and still be an adventurer? It's true!
+Even so, we have some difficult things to discuss about the ways disability is included in games, from how we rarely see it to how when we do it can be quite heavily stigmatised.
+I'm Cherry Thompson, I'm a games accessibility consultant and I live with various disabilities myself.
+I'm looking forward to my session this year where we'll take a look at why representation can be so impactful to players and how we might actively change stigma. I'll be drawing on both personal and community experience with a number of practical examples of the pits we can clumsily fall into as games developers. But maybe more importantly I'll lead you through some ideas for how we can be more likely to get it right in the future.
+The talk will be highly informative for narrative designers, writers and artists, but I believe it's an important area for learning for developers of all disciplines, regardless of genre or platform.
+So come join me, for you can take an arrow to the knee and still be an adventurer.

@@ -1,0 +1,32 @@
+---
+title: "GDC 2017 Flash Forward: Making Night In The Woods Better with Open Source"
+video_id: xn_a9_mUqaM
+url: https://www.youtube.com/watch?v=xn_a9_mUqaM
+views: 3281
+year: 2017
+tags: [GDC, GameDev, Transcript]
+date_added: 2026-03-03
+---
+
+# GDC 2017 Flash Forward: Making Night In The Woods Better with Open Source
+
+## 视频信息
+
+- **视频 ID**: xn_a9_mUqaM
+- **观看次数**: 3281
+- **年份**: 2017
+
+## 视频链接
+
+[在 YouTube 上观看](https://www.youtube.com/watch?v=xn_a9_mUqaM)
+
+## 转录内容
+
+Hi, I'm John Manning, and at the Independent Game Summit at GDC 2017, I'm going to be talking about how we made the development process for Night in the Woods better through open sourcing part of the game's code.
+Almost every game in development makes use of some kind of open source code.
+It's freely available, and it solves a problem.
+However, while many projects are consumers of code, it's rarer to see a game release code.
+The best reason for releasing is that, when done right, you can leverage the skills of volunteers who contribute back, and make your production easier.
+In this talk, we'll discuss how Night in the Woods open-sourced Yarn, its dialogue engine, and how randoms on the internet took it, improved it way beyond the original feature set, and made more things possible for both the original development team and for many new projects.
+We'll also discuss how to choose what parts of your code to release, how to release code in a way that encourages others to contribute, how to manage an open-source project to get the most out of community contributions, and how to minimize the overhead that's involved.
+I look forward to seeing you there.

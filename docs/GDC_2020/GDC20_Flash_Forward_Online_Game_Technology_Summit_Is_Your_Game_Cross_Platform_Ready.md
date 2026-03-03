@@ -1,0 +1,35 @@
+---
+title: "GDC20 Flash Forward: Online Game Technology Summit: Is Your Game Cross-Platform Ready?"
+video_id: 9sjX2kX2N7g
+url: https://www.youtube.com/watch?v=9sjX2kX2N7g
+views: 1996
+year: 2020
+tags: [GDC, GameDev, Transcript]
+date_added: 2026-03-03
+---
+
+# GDC20 Flash Forward: Online Game Technology Summit: Is Your Game Cross-Platform Ready?
+
+## 视频信息
+
+- **视频 ID**: 9sjX2kX2N7g
+- **观看次数**: 1996
+- **年份**: 2020
+
+## 视频链接
+
+[在 YouTube 上观看](https://www.youtube.com/watch?v=9sjX2kX2N7g)
+
+## 转录内容
+
+Hello and welcome to the GDC 2020 fast forward video.
+Now cross-platform gaming is not a new concept, but it has definitely gotten a lot of attention and it's definitely one of the big trends in video game industry recently, you know, thanks to big games like Minecraft and Fortnite and Rocket League that kind of lead the way, like pave the movement and making it to be mainstream these days.
+Even it has gotten to the point the momentum is there such that platform companies like Xbox and PlayStation starts to relax their requirements. Anderson Horowitz calls cross platform to be one of the six trends revolutionizing games. They say, quote, as cross-platform play becomes the new standard, multiplayer games will grow much faster and larger than older generations.
+So if you're working on a cross-platform game or you're curious about where do you start, like what is involved in making one, I would like to invite you to come to my GDC 2020 talk.
+My name is Raymond Arifianto. I'm from Icelbite and I do have a talk in GDC 2020.
+It's called Is Your Game Cross-Platform Ready?
+We're going to be talking about the terminologies, the differences between the different concepts of cross-platform, like cross-buy, cross-play, cross-progression, and the different techniques to accomplish that.
+We're going to be talking about the tips to how to synchronize your game experience throughout.
+the different platforms that you are shipping your game on, and also why everything boils down to your identity and account system, and a lot more topics.
+So I hope I see you in my talk, and please visit us in our booth also in the show floor, and check out the website for more details.
+See you soon. Bye.

@@ -1,0 +1,33 @@
+---
+title: "GDC19 Flash Forward: Solving an Invisible Problem: Designing for Color-Blindness in Games"
+video_id: WS82R3o2dts
+url: https://www.youtube.com/watch?v=WS82R3o2dts
+views: 2344
+year: 2019
+tags: [GDC, GameDev, Transcript]
+date_added: 2026-03-03
+---
+
+# GDC19 Flash Forward: Solving an Invisible Problem: Designing for Color-Blindness in Games
+
+## 视频信息
+
+- **视频 ID**: WS82R3o2dts
+- **观看次数**: 2344
+- **年份**: 2019
+
+## 视频链接
+
+[在 YouTube 上观看](https://www.youtube.com/watch?v=WS82R3o2dts)
+
+## 转录内容
+
+Hi, my name is Douglas Pennant and I am a developer and player of games.
+I'm also colourblind, which can make some games difficult or impossible to play.
+All games are unique and use colour in slightly different ways, so each game will need an individual, personalised solution to make the game accessible to colourblind players.
+Recently, more and more developers have been striving to support colourblindness in their games.
+But it can be very hard to solve a problem you cannot actually see.
+And to make things worse, the feature itself may be completely invisible to your colourblind colleagues and players, making this invisible problem even harder to solve.
+At GDC this year, my aim is to educate as many developers as possible about the disability, going into the science behind the condition.
+looking into how it affects the different games and how it affects the playing experience, and also covering some methods you can use to predict some of the problems and make your games a lot more colourblind friendly. And yes, I will have lots and lots of pictures to help illustrate all of this. If you would like to understand better how to make your games colourblind accessible, please come and see my GDC talk, Solving an Invisible Problem, Designing for Colourblindness in Games.
+Thank you very much, and I'll see you in San Francisco.
