@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XI9M8ijUD9s
 views: 15057
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Lead the Way! A Practical Guide to Team Leadership

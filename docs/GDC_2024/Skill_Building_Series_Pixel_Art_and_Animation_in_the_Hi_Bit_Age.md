@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZR_JBgNEeVM
 views: 33213
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Skill-Building Series: Pixel Art and Animation in the Hi-Bit Age

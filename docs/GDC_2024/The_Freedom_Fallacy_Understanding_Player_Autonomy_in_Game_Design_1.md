@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kBSB2X4Sbak
 views: 23784
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Freedom Fallacy: Understanding Player Autonomy in Game Design

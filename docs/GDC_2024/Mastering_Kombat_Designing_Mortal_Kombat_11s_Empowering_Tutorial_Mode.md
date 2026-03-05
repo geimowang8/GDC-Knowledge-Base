@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mbSyH3lo1Zg
 views: 23855
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Mastering Kombat: Designing Mortal Kombat 11's Empowering Tutorial Mode

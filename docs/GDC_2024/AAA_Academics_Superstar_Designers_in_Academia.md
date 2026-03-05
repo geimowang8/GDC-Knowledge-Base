@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=A_MK8qTrUuc
 views: 3492
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AAA Academics: Superstar Designers in Academia

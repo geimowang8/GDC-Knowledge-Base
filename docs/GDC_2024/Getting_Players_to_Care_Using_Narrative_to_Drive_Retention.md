@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=gPV0qmyGs-o
 views: 5041
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Getting Players to Care: Using Narrative to Drive Retention

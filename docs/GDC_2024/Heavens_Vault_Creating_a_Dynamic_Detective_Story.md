@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=o02uJ-ktCuk
 views: 24797
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Heaven's Vault: Creating a Dynamic Detective Story

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sCRzxEEcO2Y
 views: 64361
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Continuous World Generation in No Man's Sky

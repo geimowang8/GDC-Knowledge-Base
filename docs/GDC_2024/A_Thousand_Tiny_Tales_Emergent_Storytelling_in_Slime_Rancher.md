@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GbVFa89kUhw
 views: 19859
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Thousand Tiny Tales: Emergent Storytelling in Slime Rancher

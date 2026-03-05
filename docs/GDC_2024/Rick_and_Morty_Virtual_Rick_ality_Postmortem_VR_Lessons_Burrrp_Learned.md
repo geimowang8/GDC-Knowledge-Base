@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=LMbx_PxXZAE
 views: 9241
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Rick and Morty: Virtual Rick-ality Postmortem: VR Lessons *Burrrp* Learned

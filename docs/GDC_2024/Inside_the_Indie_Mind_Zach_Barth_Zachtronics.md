@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=iAfcJB1WaDU
 views: 25713
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Inside the Indie Mind: Zach Barth (Zachtronics)

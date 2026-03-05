@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WsmxBE9Gw6A
 views: 13390
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes (Sponsored)

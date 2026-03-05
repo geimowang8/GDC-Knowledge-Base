@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yreVq5fWv0Y
 views: 6599
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Paint It Black: The Art of 'Sea of Solitude'

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3OuOH9qqIt8
 views: 8408
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Character Development in Non-Linear Spaces: Uncharted: The Lost Legacy

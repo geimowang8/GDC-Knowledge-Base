@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kmHXk4Y35QM
 views: 18758
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Mini Metro: When Less is More

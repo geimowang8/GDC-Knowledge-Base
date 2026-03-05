@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=IvK0ZlNoxjw
 views: 38797
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Nuts and Bolts: Modular AI From the Ground Up

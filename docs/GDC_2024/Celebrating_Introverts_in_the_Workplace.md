@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7Z5WCV1Ey0I
 views: 7297
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Celebrating Introverts in the Workplace

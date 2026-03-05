@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=iDqDPsjrz94
 views: 22538
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A No-Nonsense Approach to Designing Horizon Zero Dawn's Robot Dinosaurs

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=IE2siVRMXCw
 views: 4030
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Maintaining Sledgehammer Games' Studio Culture During Rapid Team Growth

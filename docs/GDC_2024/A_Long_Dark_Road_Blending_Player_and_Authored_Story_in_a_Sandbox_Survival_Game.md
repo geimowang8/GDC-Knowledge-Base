@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=K_H6Bl4_qH0
 views: 6632
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Long Dark Road: Blending Player and Authored Story in a Sandbox Survival Game

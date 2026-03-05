@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vX3kjPgvcFU
 views: 85430
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Clash of Clones: The Importance of Standing Out

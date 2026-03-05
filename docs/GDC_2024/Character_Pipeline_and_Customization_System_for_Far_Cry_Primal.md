@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=um8ZMcenXIA
 views: 12018
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Character Pipeline and Customization System for Far Cry Primal

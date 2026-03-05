@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7TQ-WS3MPlE
 views: 35233
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Squad Coordination in 'Days Gone'

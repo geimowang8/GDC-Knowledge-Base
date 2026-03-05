@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=x6Tz8AFd9po
 views: 6458
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Vehicle Recordings for Modern Games

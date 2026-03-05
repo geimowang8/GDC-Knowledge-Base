@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ProxgK2i_Vs
 views: 13411
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Year in Mobile Games

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6LCQg80Yet0
 views: 6327
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Chatbot Game Manifesto: Golden Rules for Making a New Kind of Game

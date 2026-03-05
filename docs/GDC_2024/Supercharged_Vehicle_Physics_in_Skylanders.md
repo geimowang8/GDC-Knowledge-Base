@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Db1AgGavL8E
 views: 17309
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Supercharged! Vehicle Physics in Skylanders

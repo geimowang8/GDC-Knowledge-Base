@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dp-DRU24J18
 views: 119408
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # It's Still Emulation: Saving Video Game History Before It's Too Late

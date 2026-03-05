@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zZ8BFsdbem0
 views: 5707
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing a Trance: Meditation and Game Design

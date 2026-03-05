@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VAlgoJYz068
 views: 8728
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Intelligent Game Design on Rainbow Six Siege

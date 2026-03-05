@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=A-a_WKQRW08
 views: 4296
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tales From a Crowdsourced Game Design

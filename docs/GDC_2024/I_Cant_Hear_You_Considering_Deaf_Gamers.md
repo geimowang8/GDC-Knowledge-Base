@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ijLaIZ2acSo
 views: 9018
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # I Can't Hear You: Considering Deaf Gamers

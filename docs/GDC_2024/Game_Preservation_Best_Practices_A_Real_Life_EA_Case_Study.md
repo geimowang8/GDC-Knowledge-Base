@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ISZ17cQBdS8
 views: 7762
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Preservation Best Practices: A Real Life EA Case Study

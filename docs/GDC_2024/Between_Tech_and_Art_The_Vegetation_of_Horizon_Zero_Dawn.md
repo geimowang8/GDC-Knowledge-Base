@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=wavnKZNSYqU
 views: 126052
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Between Tech and Art: The Vegetation of Horizon Zero Dawn

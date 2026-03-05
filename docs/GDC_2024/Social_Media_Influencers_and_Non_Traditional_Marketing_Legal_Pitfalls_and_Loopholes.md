@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=nDnAg7GCrKA
 views: 5285
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Social Media Influencers and Non-Traditional Marketing: Legal Pitfalls and Loopholes

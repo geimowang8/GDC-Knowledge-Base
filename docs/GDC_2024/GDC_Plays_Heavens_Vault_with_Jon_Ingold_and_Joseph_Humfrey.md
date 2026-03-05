@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=De43al1Y0B0
 views: 3032
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Plays Heaven's Vault with Jon Ingold and Joseph Humfrey

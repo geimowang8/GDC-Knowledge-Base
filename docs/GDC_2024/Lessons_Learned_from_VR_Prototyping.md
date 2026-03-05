@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=G295PAPzZX8
 views: 15194
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Lessons Learned from VR Prototyping

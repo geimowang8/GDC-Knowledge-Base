@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ixPL360PlT4
 views: 1745
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AMA: Accessibility Q&A with Karen Stevens

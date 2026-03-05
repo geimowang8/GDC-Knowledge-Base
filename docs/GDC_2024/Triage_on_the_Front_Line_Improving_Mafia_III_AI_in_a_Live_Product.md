@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=lGPdPZC6Xvk
 views: 4596
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Triage on the Front Line: Improving Mafia III AI in a Live Product

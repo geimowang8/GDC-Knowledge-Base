@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HmZZAHDqdfE
 views: 18885
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Crush the Norm: Diversity Rules (At King)

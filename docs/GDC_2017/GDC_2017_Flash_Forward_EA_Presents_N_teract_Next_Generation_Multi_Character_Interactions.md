@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=JZhu3W9D5DU
 views: 1575
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: EA Presents N-teract: Next Generation Multi-Character Interactions

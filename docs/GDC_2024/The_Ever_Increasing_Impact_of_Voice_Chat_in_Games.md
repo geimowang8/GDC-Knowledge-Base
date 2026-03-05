@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=McJBdTOzOSY
 views: 4872
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Ever Increasing Impact of Voice Chat in Games

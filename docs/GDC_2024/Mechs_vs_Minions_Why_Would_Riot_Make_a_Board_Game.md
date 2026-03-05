@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_cR1_UQx7qY
 views: 8715
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Mechs vs. Minions: Why Would Riot Make a Board Game?

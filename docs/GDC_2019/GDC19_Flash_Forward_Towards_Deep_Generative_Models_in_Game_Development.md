@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=COw9RObiK7c
 views: 2092
 year: 2019
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC19 Flash Forward: Towards Deep Generative Models in Game Development

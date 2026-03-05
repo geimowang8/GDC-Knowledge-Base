@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Iqmg4gblreo
 views: 23852
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Geometry in Milliseconds: Real-Time Constructive Solid Geometry

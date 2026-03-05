@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Gk3NITPmMvI
 views: 21161
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Board Game Design Day: KeyForge: Creating the World's First Unique Deck Game

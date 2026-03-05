@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QkoLV09Q7Gw
 views: 6269
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # S***'s on Fire! A Cautionary Tale in Community Crisis Management

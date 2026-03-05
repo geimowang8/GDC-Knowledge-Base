@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Z6oZnDIgio4
 views: 16888
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Knowledge is Power: An Overview of Knowledge Representation in Game AI

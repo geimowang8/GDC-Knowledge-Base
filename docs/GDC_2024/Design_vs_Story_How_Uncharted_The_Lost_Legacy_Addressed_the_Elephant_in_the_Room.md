@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-VZTudg6ifg
 views: 14686
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Design vs. Story: How Uncharted: The Lost Legacy Addressed the Elephant in the Room

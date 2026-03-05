@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=O5UANrtiIJI
 views: 7493
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Historian's Guide to Researching Your Historical Game

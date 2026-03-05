@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Vre9qqoEBpE
 views: 8390
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Blending Autonomy and Control: Creating NPCs for Tom Clancy's The Division

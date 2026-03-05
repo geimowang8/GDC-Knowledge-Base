@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=V4rq3vMxgQ0
 views: 10495
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Making of ASTRO BOT Rescue Mission: Reinventing Platformers for VR

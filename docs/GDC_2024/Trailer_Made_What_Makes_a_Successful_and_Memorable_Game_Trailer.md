@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QWd7F0z1W_Y
 views: 22586
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Trailer Made: What Makes a Successful and Memorable Game Trailer

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=i2su2NAjm9o
 views: 16278
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The 2021 Independent Games Festival and Game Developers Choice Awards

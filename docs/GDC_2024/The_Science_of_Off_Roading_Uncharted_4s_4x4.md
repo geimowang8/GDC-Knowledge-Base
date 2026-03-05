@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SKXqWcaoTGE
 views: 32573
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Science of Off-Roading: Uncharted 4's 4x4

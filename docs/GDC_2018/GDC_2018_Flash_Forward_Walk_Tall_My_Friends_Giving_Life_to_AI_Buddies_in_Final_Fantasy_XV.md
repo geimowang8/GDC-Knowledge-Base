@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cnKiTzuRDWM
 views: 6034
 year: 2018
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2018 Flash Forward: Walk Tall, My Friends: Giving Life to AI-Buddies in 'Final Fantasy XV'

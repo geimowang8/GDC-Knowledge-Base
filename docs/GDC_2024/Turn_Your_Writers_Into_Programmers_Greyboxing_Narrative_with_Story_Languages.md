@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=JGZQSFvcQzo
 views: 20358
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Turn Your Writers Into Programmers: Greyboxing Narrative with Story Languages

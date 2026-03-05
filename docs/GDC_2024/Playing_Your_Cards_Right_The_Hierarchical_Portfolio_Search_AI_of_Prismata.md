@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sQSL9j7W7uA
 views: 6414
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Playing Your Cards Right: The Hierarchical Portfolio Search AI of Prismata

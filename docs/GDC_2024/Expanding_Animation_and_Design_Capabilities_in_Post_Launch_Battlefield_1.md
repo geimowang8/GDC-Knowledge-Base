@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=p9i-iqs_CO4
 views: 6745
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Expanding Animation and Design Capabilities in Post-Launch Battlefield 1

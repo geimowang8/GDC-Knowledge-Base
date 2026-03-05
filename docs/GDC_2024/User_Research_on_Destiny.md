@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=izZcrG4WqGI
 views: 13415
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # User Research on Destiny

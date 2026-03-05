@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=IWRu3RRqQmY
 views: 127522
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Making the World Give a Damn About Your Game in 2018

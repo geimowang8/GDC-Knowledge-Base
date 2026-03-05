@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mIPmjnsCPR4
 views: 37729
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Don't Break the Chain: Maintaining Productivity on Your 19th Game

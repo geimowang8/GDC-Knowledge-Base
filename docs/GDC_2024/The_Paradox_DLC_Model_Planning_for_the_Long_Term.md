@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=muvZni2DQfk
 views: 10879
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Paradox DLC Model: Planning for the Long Term

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Xo9M3nI8p6E
 views: 25857
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Art Direction: Escaping Your Comfort Zone

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RC6W2MBXaVo
 views: 7882
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tetris World Championship: Building Explosive Esports on 8-bit Nintendo

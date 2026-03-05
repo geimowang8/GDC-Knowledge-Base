@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=TvYQQ5okA88
 views: 45703
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Shipping Kills Studios: A Study of Indie Team Dynamics

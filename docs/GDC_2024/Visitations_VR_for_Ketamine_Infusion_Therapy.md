@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=NV8_uoJTf_s
 views: 5733
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 'Visitations': VR for Ketamine Infusion Therapy

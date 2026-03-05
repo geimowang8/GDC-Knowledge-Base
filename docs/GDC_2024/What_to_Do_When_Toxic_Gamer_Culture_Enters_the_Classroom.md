@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=wXcMPi_qCio
 views: 14710
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What to Do When 'Toxic Gamer Culture' Enters the Classroom

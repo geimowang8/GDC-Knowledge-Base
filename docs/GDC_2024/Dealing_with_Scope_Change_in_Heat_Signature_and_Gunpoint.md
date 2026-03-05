@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=r4-O_7wSyAQ
 views: 14124
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Dealing with Scope Change in Heat Signature and Gunpoint

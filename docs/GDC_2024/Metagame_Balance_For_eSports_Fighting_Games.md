@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=miu3ldl-nY4
 views: 35768
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Metagame Balance For eSports & Fighting Games

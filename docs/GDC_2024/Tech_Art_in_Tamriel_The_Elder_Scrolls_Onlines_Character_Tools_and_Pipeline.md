@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5YBJaXHFoSA
 views: 8565
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tech Art in Tamriel: The Elder Scrolls Online's Character Tools and Pipeline

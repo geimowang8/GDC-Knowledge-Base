@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5T1hnau158M
 views: 18036
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Classic Game Design Postmortem: Swinging with Spider-Man

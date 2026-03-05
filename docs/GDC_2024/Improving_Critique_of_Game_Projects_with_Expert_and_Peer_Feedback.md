@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=TJFkYMhh4VA
 views: 3512
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Improving Critique of Game Projects with Expert and Peer Feedback

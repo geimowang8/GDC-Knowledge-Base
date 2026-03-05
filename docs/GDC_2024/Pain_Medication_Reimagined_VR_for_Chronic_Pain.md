@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=llh2OUfrLdY
 views: 3673
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Pain Medication Reimagined: VR for Chronic Pain

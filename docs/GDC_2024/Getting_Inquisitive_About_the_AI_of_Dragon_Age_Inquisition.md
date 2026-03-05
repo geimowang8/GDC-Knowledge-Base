@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vt6kf9PP92U
 views: 12088
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Getting Inquisitive About the AI of Dragon Age Inquisition

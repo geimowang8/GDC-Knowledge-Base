@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=eTUMnE6gzoE
 views: 15531
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Live Q&A: Lucas Pope and Return of the Obra Dinn

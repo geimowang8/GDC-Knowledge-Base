@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=lVVuoymwJoE
 views: 5887
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Capturing Reality: Gathering Reference for Forza Motorsport 5

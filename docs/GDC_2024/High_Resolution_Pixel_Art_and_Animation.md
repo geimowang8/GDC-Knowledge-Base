@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ih65Kg4DTw8
 views: 30785
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # High Resolution Pixel Art and Animation

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=AdCgi9E90jw
 views: 27397
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tile-Based Map Generation using Wave Function Collapse in 'Caves of Qud'

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4h2ZvfYjHp0
 views: 12168
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Shadow Tactics Postmortem: Commandos with Ninja

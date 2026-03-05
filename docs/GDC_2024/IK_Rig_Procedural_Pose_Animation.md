@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=KLjTU0yKS00
 views: 231254
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # IK Rig: Procedural Pose Animation

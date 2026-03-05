@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=65_lBJbAxnk
 views: 8541
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Running the Halo Multiplayer Experience at 60fps: A Technical Art Perspective

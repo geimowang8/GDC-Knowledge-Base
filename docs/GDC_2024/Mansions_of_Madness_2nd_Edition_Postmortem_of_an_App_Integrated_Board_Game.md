@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=aiekM0uv93w
 views: 9569
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Mansions of Madness 2nd Edition: Postmortem of an App-Integrated Board Game

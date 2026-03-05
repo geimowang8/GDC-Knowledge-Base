@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=gk2qdZNdpdo
 views: 2810
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Improving Games Accessibility in Children's Games Through QA

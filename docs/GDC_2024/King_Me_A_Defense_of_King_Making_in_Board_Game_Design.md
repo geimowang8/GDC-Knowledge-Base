@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UraJElx1ebg
 views: 21518
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # "King Me": A Defense of King-Making in Board Game Design

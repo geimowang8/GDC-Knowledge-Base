@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SPQjOT3gmPY
 views: 8241
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Next-Gen Audio in Killer Instinct

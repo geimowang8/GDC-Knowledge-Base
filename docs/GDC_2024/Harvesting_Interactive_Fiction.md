@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=EXW1ts6tZh4
 views: 24738
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Harvesting Interactive Fiction

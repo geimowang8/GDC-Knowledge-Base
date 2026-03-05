@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=D2ChyzAIzS0
 views: 4933
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Theme Oriented Design: The Case of Phantom Doctrine

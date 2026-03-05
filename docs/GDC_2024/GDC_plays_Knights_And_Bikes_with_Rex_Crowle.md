@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1-4oEp9iluE
 views: 1604
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC plays Knights And Bikes with Rex Crowle

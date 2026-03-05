@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Vb39BFs1UK0
 views: 8149
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # You Can Take an Arrow to the Knee and Still Be an Adventurer

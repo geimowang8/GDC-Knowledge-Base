@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zSUu_36SmlQ
 views: 8395
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Level Design Case Studies: Trainyard and Cut the Rope

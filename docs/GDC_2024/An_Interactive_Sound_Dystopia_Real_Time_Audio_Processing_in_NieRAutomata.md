@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=BrUQdd96qzk
 views: 15431
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # An Interactive Sound Dystopia: Real-Time Audio Processing in NieR:Automata

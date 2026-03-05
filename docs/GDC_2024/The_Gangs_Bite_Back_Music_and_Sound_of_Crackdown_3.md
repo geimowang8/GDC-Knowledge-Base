@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5olbQZnIrtY
 views: 1852
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Gangs Bite Back: Music and Sound of 'Crackdown 3'

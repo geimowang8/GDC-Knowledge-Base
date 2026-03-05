@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ob4mH7K1oGw
 views: 2567
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Integrating Live Actors into At-Home VR Experiences

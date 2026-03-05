@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=I5wwviUJV9M
 views: 6876
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Reimagining a Classic: The Design Challenges of Deus Ex: Human Revolution

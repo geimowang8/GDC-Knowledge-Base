@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ozLyCFbklv8
 views: 9506
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Represent Mental Illness in Games

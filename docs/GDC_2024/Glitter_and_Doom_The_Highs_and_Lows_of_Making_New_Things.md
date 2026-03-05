@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=McIXKUujg8Y
 views: 2719
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Glitter and Doom: The Highs and Lows of Making New Things

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4GYBLd_m3O8
 views: 6718
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Online Games Can Learn from the Failures of Social Media

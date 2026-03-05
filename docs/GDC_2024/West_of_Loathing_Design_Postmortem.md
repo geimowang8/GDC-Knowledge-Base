@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=htkO6wUCBT8
 views: 11355
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # West of Loathing Design Postmortem

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=a4U8WXd0f3c
 views: 11178
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Inviting Player Creativity Through Game Mechanics

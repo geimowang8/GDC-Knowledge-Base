@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0N2-6ZTl5bs
 views: 17336
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Mirror's Edge Catalyst: Evolving and Creating a Style

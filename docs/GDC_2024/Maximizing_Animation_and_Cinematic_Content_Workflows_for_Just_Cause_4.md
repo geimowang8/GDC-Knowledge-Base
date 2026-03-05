@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=MQjCYQb_pFU
 views: 7677
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Maximizing Animation and Cinematic Content Workflows for 'Just Cause 4'

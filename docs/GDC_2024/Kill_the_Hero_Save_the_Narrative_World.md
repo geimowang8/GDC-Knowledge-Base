@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=oT0Pz4fJ3WM
 views: 14979
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Kill the Hero, Save the (Narrative) World

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Dzx1r1z6NqY
 views: 5316
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Art of Afterparty: The Devil's in the Details

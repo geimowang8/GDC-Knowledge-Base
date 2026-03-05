@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=2pRfKAHZViU
 views: 4264
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Build Nightly When There is No Night

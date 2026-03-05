@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HvUn1XOURk4
 views: 10039
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Nature vs. Nurture: Unpacking Player Spending in F2P Games

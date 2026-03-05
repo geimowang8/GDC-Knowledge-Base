@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qxLR8qbD5JE
 views: 16395
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Animation Pipeline of Mario + Rabbids Kingdom Battle

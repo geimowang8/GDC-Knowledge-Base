@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=a9DlhDRZ0yA
 views: 90907
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Shigeru Miyamoto's 1999 GDC Keynote

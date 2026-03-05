@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WpC0TX7gtLg
 views: 5430
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tips From the Trenches: How To Help Recruiters and Hiring Managers Get You In The Door

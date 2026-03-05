@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qlBg6NuXuq4
 views: 3462
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Creating Complex AI Behavior in Stellaris Through Data Driven Design

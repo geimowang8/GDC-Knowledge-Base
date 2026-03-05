@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zB0vUMKkmuI
 views: 2737
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Making Kitty Powers' Matchmaker - Adventures of a Videogame Drag Queen

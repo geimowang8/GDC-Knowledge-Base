@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=crbQgePq5CY
 views: 16528
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Cell Structure: How Supercell Turned the Traditional Org-Chart Upside Down

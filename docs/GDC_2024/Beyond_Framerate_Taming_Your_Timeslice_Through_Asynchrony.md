@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RDCCyrC1sto
 views: 8797
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Beyond Framerate: Taming Your Timeslice Through Asynchrony

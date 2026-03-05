@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=rddQvD9Wi6c
 views: 8906
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Governance in F2P Multiplayer Games

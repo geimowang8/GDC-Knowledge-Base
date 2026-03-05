@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Zp4tJQJKIPs
 views: 19214
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What I Learned About Tools Development From Games Industry Legends

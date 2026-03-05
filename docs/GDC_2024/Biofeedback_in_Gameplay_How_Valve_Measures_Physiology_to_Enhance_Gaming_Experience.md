@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=MdT7Qx2oRAg
 views: 7864
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Biofeedback in Gameplay: How Valve Measures Physiology to Enhance Gaming Experience

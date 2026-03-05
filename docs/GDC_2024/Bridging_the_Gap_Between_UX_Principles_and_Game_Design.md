@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=73Pqsk74Jc0
 views: 27203
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Bridging the Gap Between UX Principles and Game Design

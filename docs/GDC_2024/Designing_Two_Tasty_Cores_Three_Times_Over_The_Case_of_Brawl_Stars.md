@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VSVAmf5LCuo
 views: 20794
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing Two Tasty Cores Three Times Over: The Case of Brawl Stars

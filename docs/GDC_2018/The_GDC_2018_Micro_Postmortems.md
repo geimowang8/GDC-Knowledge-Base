@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=oDC4Rzh1viw
 views: 6206
 year: 2018
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The GDC 2018 Micro Postmortems

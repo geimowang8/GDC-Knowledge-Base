@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Iryq1WA3bzw
 views: 16809
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Shared World Shooter: Destiny's Networked Mission Architecture

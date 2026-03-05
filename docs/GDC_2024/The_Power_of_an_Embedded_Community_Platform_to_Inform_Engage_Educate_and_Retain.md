@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zctUBJ-kBe8
 views: 2729
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Power of an Embedded Community Platform to Inform, Engage, Educate and Retain

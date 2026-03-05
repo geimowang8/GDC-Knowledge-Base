@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6CFutBFGs5M
 views: 4143
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Design, Play, Disrupt: Curating the V&A's Videogame Exhibition

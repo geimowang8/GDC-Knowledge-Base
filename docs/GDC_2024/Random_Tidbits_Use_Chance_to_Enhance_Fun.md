@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RqO-VhNIBVo
 views: 13193
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Random Tidbits: Use Chance to Enhance Fun!

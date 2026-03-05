@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=j-ynRn_KCWw
 views: 4422
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # From Game Jam to the Creation of Starlink: Battle for Atlas

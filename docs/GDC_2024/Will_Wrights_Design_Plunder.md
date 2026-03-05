@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_Um5hfcXchU
 views: 8491
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Will Wright's Design Plunder

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=H8_yi9SJyWs
 views: 3038
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tomb Raider Rebooted: Audio Reimagined

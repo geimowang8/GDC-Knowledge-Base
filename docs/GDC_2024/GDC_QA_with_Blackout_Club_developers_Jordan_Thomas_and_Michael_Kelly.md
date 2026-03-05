@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XUtOMtf78jU
 views: 1029
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Q&A with Blackout Club developers Jordan Thomas and Michael Kelly

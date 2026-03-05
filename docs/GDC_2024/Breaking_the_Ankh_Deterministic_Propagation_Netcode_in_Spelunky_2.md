@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mss6S2IO8Mw
 views: 8669
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Breaking the Ankh: Deterministic Propagation Netcode in 'Spelunky 2'

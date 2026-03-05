@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-zRaFJHK0S4
 views: 32320
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Studio Management: Making It Great

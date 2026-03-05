@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=PK2IYgAsF5o
 views: 13939
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The State and Future of Board Games

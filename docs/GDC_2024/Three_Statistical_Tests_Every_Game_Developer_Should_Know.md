@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fl9V0U2SGeI
 views: 296403
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Three Statistical Tests Every Game Developer Should Know

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZbRVE_y1m18
 views: 2855
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # No Mavericks, No Martyrs: Sustainable, Collaborative Production

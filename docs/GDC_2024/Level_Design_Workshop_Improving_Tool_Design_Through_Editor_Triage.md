@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VRm3d0TqMq4
 views: 8411
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Level Design Workshop: Improving Tool Design Through Editor Triage

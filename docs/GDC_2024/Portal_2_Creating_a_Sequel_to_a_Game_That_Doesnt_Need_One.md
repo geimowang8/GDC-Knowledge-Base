@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=BYFvwbby2YM
 views: 240569
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Portal 2: Creating a Sequel to a Game That Doesn't Need One

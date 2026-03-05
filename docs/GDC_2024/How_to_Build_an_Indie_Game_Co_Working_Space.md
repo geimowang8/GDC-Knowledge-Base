@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0zfm5_YqzWw
 views: 4089
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Build an Indie Game Co-Working Space

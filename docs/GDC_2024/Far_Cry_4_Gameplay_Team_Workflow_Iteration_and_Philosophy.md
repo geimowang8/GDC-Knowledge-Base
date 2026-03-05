@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HEaJfXVspPc
 views: 7947
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Far Cry 4: Gameplay Team Workflow, Iteration and Philosophy

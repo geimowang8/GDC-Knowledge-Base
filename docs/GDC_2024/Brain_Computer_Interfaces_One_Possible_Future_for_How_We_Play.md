@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Qhj3C1H5JWo
 views: 24816
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Brain-Computer Interfaces: One Possible Future for How We Play

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=j0mglyHcvvo
 views: 4742
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Deus Ex: Breach: Experimenting Within the Boundaries of a AAA Franchise

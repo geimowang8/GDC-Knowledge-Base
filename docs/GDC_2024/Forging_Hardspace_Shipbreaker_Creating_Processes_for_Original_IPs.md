@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=MuScxiDIR5U
 views: 5864
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Forging Hardspace: Shipbreaker: Creating Processes for Original IPs

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fATEHq4Zv_Y
 views: 36200
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 30 Minute Steam Page Makeovers

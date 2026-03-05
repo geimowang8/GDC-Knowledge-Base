@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=87rg95XBalE
 views: 12967
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Deformable Snow Rendering in Batman: Arkham Origins

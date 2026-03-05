@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=EWvdKUwdp9U
 views: 2647
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Plays Mutant Year Zero: Road to Eden with The Bearded Ladies

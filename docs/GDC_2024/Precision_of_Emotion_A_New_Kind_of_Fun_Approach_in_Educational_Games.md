@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=FP-LNRtwpb8
 views: 8329
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Precision of Emotion: A New Kind of "Fun" Approach in Educational Games

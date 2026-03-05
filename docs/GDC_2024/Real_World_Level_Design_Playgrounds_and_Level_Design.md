@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=wn27AGuE49A
 views: 32894
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 'Real World Level Design' & 'Playgrounds and Level Design'

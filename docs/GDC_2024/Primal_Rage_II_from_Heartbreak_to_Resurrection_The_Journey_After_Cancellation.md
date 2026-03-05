@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YAutxATlgLA
 views: 20503
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Primal Rage II from Heartbreak to Resurrection: The Journey After Cancellation

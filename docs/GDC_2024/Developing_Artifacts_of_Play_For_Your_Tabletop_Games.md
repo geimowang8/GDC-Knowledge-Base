@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kx8dMSSj7hM
 views: 9140
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Developing Artifacts of Play For Your Tabletop Games

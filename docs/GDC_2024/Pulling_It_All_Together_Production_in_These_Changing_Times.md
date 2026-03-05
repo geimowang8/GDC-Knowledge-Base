@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=n22m4FMHjlU
 views: 7529
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Pulling It All Together: Production in These Changing Times

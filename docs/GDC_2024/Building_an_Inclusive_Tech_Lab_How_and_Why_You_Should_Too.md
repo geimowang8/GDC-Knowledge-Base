@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=I9oc_Qu_a68
 views: 3724
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building an Inclusive Tech Lab: How and Why You Should Too

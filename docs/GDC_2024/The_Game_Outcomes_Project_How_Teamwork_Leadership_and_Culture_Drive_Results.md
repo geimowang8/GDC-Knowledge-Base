@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Mrr4lNF7-OU
 views: 7205
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Game Outcomes Project: How Teamwork, Leadership and Culture Drive Results

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Xnxw8n73d-0
 views: 6802
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # More "I", Less "A" in AI Interviews

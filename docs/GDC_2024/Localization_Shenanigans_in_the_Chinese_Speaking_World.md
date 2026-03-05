@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1WeZ3X_HZ6U
 views: 7816
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Localization Shenanigans in the Chinese Speaking World

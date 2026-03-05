@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fZRyaA1agq4
 views: 7711
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Dreams: Unlocking Creativity in Everyone

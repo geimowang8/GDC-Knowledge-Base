@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=MdC7L1OloKE
 views: 7613
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # From Shore to Horizon: Creating a Practical Tessellation Based Solution

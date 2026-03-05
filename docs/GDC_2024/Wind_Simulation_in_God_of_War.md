@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dDgyBKkSf7A
 views: 27649
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Wind Simulation in God of War

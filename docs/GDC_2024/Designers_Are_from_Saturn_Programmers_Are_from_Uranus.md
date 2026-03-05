@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6b-o_-Xb50E
 views: 109660
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designers Are from Saturn, Programmers Are from Uranus

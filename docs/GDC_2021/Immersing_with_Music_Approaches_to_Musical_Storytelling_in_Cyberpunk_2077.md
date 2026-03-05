@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uX9rjMZARVg
 views: 10131
 year: 2021
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Immersing with Music: Approaches to Musical Storytelling in 'Cyberpunk 2077'

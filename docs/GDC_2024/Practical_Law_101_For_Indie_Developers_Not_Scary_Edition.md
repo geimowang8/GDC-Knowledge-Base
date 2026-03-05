@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8eAW-7Js7NA
 views: 108865
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Practical Law 101 For Indie Developers: Not Scary Edition

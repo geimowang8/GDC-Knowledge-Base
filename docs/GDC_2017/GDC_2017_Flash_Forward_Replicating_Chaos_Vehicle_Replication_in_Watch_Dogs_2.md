@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=FKa22o0RbJ4
 views: 4057
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Replicating Chaos: Vehicle Replication in Watch Dogs 2

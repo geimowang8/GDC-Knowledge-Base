@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vH40oLUJ-d8
 views: 11158
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # More Feelings, Fewer Features: Showcasing Your Indie Game Through Messaging and Video

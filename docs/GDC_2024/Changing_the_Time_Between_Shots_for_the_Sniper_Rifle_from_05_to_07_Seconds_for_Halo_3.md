@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8YJ53skc-k4
 views: 19202
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3

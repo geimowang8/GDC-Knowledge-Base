@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ictRlPZQCZI
 views: 18722
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Prompto's Facebook: How a Buddy-AI Auto-Snapshots Your Adventure in FFXV

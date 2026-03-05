@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=z0-ddTqz0XE
 views: 22651
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating a Deeper Emotional Connection: The Cinematography of God of War

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XOuLlEOULBQ
 views: 8613
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Games that Care: Lessons from Teaching Grief-Based Game Design

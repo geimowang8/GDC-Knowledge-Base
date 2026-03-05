@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=hB_amv0ptA0
 views: 4726
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Behind the Audio of the Heroes of Star Wars Battlefront II

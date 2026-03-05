@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=91gkYNLKsCI
 views: 5872
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Disrupt the Game Industry Culture for Good: Starting from Square One

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=q8cU40UOLD8
 views: 1826
 year: 2018
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2018 Flash Forward: Rendering Technology in 'Agents of Mayhem'

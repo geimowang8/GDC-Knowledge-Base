@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5jrq5rDI4dk
 views: 20539
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Plot and Parcel: Procedural Level Design in XCOM 2

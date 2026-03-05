@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=EmGx4u0pbRk
 views: 3672
 year: 2018
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2018 Flash Forward: Mobile Game Dev Stories

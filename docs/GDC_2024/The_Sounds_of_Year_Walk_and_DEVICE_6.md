@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=BigMGZhP34c
 views: 2856
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Sounds of Year Walk and DEVICE 6

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=9sGDQRc-NA8
 views: 5950
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The World as Your Canvas: Telling Location Based Stories

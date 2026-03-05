@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XOSwA9D7tb0
 views: 9228
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Until You Fall: Building Satisfying VR Combat on a Budget

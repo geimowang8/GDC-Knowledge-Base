@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=DFM5zbekZ7c
 views: 26370
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Procedural Generation of Cinematic Dialogues in Assassin's Creed Odyssey

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=taxcb_5lEI8
 views: 85368
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building a Paper Prototype For Your Narrative Design

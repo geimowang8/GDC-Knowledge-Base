@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dKS2kaI3aXE
 views: 17370
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Honoring the Blade: Lethality and Combat Balance in 'Ghost of Tsushima'

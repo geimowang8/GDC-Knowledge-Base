@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YUF-07ab9wU
 views: 89718
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # John Carmack on The Issues and Rewards of Bleeding Edge Engine Development

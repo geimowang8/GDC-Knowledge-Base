@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=T55AXQEUybA
 views: 8688
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Reduce In-Game Inflation by Monitoring Your Economic Systems

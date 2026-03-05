@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RzZSyjag7cQ
 views: 11943
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Top 3 Mistakes of Angry Birds 2

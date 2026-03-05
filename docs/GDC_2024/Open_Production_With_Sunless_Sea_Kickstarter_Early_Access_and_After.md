@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8s21Fk1w-1k
 views: 8227
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Open Production With Sunless Sea: Kickstarter, Early Access and After

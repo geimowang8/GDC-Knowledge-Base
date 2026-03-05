@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Rnlax6eATVY
 views: 16324
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Roguelikes And Narrative Design With Hades Creative Director Greg Kasavin - GDC Podcast

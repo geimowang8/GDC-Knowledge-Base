@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=X4Pod_OBuhE
 views: 28345
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Developers Conference 2022 Highlights

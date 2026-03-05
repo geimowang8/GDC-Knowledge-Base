@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3T--5SdLdjE
 views: 10535
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game VR/AR: Make Your Game Run on Quest (and Look Pretty Too)

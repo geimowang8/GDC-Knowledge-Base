@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UEcvZIYpS38
 views: 2763
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating Mixed Reality Trailers and Livestreams

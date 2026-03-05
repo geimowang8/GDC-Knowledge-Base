@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WycVOCbeKqQ
 views: 287991
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Let's Be Realistic: A Deep Dive into How Games Are Selling on Steam

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XKMj2aYfnWI
 views: 10092
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The State & Future of AR Games: Rose-Colored Glasses

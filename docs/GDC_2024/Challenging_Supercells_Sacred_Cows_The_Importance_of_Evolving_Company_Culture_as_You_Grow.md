@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=9jU2BvdQWCs
 views: 7638
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Challenging Supercell's Sacred Cows: The Importance of Evolving Company Culture as You Grow

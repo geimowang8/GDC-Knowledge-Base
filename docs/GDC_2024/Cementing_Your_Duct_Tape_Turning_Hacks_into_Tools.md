@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-9WPjynCWL4
 views: 8886
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Cementing Your Duct Tape: Turning Hacks into Tools

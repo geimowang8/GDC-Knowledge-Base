@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VY3jfhs6bNg
 views: 5368
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Star Wars: The Old Republic - Creating A True Competitor in the AAA MMO Space

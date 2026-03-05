@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UrdZhnA-PaI
 views: 19674
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Great Level Design is a Studio-Wide Effort

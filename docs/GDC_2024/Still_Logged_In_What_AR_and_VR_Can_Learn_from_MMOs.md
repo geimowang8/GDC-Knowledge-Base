@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kgw8RLHv1j4
 views: 8826
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Still Logged In: What AR and VR Can Learn from MMOs

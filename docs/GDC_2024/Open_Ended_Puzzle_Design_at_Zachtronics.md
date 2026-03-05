@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=U4uH1ynH3Rs
 views: 42170
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Open-Ended Puzzle Design at Zachtronics

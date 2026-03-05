@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=LrLHsbTK5bM
 views: 27356
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Player Traversal Mechanics in the Vast World of Horizon Zero Dawn

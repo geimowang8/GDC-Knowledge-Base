@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=04YUZ3bWAyg
 views: 20105
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Global Illumination in Tom Clancy's The Division

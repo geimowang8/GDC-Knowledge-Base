@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SZOr0m-K5PQ
 views: 11561
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Cold, Hard Cache Insomniacs Cache Simulator

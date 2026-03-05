@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=IrlNVU39f7M
 views: 2459
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Westworld VR: Combining Linear and Interactive Content to Tell Character-Centric Stories

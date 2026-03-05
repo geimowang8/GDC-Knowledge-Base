@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SsSh62mSPZE
 views: 15619
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Dynamic Stories for Dynamic Games: Six Ways to Give Each Player a Unique Narrative

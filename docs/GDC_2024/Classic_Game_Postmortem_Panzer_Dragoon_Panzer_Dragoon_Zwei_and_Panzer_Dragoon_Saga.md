@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=gMOMsEmde-w
 views: 15124
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Classic Game Postmortem: Panzer Dragoon, Panzer Dragoon Zwei, and Panzer Dragoon Saga

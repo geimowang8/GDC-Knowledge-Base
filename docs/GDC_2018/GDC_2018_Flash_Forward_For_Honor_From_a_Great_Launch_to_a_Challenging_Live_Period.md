@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=LUWYgYX8qCo
 views: 2343
 year: 2018
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2018 Flash Forward: 'For Honor': From a Great Launch to a Challenging Live Period

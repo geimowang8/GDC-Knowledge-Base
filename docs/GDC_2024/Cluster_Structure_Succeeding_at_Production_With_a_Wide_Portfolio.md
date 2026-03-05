@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=A4ecWsYY2KI
 views: 3884
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Cluster Structure: Succeeding at Production With a Wide Portfolio

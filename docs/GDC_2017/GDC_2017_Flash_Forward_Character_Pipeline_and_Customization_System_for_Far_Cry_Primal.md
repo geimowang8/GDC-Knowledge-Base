@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=NP1kM3uNbV8
 views: 4573
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Character Pipeline and Customization System for Far Cry Primal

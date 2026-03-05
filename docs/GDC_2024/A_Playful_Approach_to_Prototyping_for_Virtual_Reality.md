@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vUwwrqFD_dM
 views: 4513
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Playful Approach to Prototyping for Virtual Reality

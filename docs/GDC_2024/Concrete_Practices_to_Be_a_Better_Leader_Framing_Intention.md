@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mkLGLKcplkM
 views: 13354
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Concrete Practices to Be a Better Leader: Framing & Intention

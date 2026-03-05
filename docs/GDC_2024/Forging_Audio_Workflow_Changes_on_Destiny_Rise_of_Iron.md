@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=DYFG8t5p1TE
 views: 3233
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Forging Audio Workflow Changes on Destiny: Rise of Iron

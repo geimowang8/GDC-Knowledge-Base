@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=E2MIpi8pIvY
 views: 141316
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Early Days of id Software

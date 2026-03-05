@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=j_Ez3RpJUtw
 views: 5618
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Design Direction of 'I Expect You To Die 2'

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=R_1js02CGLg
 views: 9717
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Will Wright's 2006 Keynote: What's Next in Game Design?

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Poi67i2GDns
 views: 6300
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AMA: Brian Horton, Creative Director on Insomniac Games’ Marvel’s Spider-Man: Miles Morales

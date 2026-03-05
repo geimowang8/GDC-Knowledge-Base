@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mN56EauPhPQ
 views: 6713
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Finding Space For Sound: Environmental Acoustics in Tom Clancy's The Division 2

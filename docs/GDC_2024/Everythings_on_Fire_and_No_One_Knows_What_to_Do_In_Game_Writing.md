@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=POgN1VN3e3k
 views: 35047
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Everything's on Fire and No One Knows What to Do (In Game Writing)

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HCnZhs-92j0
 views: 24352
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Forgiveness Mechanics: Reading Minds for Responsive Gameplay

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QfojHNoBC5w
 views: 14036
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The 'Flappy Bird' That Laid the Golden Egg: Success in Hyper-Casual

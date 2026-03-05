@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4OQDLTdhTX8
 views: 7645
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Baked in Accessibility: How Features Were Approached in Borderlands 3

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UkR4cxz7_t8
 views: 8868
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Can Game Designers Learn from Competitive Reality Shows

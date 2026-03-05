@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WXPWQFe8NYQ
 views: 7166
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # NPC Voice Design in The Division 2

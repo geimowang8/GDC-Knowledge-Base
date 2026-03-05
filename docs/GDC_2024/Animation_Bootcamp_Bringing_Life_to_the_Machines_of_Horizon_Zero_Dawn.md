@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=50mIKB-NACU
 views: 38981
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Animation Bootcamp: Bringing Life to the Machines of Horizon Zero Dawn

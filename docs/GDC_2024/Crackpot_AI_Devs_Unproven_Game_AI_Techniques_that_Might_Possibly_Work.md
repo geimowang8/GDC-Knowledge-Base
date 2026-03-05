@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WjXeoIZhDOg
 views: 17922
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Crackpot AI Devs: Unproven Game AI Techniques that Might Possibly Work

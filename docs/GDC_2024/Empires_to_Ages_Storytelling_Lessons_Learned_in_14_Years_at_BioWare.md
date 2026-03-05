@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Gsh-aYdFWws
 views: 22421
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Empires to Ages: Storytelling Lessons Learned in 14 Years at BioWare

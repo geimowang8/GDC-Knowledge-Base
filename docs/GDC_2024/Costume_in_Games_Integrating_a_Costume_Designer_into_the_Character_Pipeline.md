@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZOAMrJg9O6s
 views: 11990
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Costume in Games: Integrating a Costume Designer into the Character Pipeline

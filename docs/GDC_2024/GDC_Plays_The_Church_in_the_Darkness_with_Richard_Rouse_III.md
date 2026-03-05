@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=EP69KxOddMw
 views: 1916
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Plays The Church in the Darkness with Richard Rouse III

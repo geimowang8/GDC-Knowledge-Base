@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=DdV1_TOvi0s
 views: 7279
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The VFX Process Behind 'Battleborn'

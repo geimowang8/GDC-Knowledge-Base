@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QJ92yQ8hbxQ
 views: 2584
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Ask Me Anything: Q&A with Global Game Jam's Kate Edwards

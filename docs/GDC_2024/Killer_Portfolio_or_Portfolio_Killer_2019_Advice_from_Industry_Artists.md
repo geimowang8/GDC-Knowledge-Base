@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=93_6P-hXFGY
 views: 74782
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Killer Portfolio or Portfolio Killer 2019: Advice from Industry Artists

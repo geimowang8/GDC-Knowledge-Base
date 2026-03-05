@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3G8kfLJTVx4
 views: 15349
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # When Trainers' Eyes Meet: Creating Real Time Combat for Pokemon GO

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=FLtATD6CF0E
 views: 27169
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Forget Protagonists: Writing NPCs with Agency for 80 Days and Beyond

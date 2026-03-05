@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7Q6MkcrpXYI
 views: 3389
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Practical Guide for Doing Ethical Player Testing

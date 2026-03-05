@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=P-WP1yMOkc4
 views: 9370
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Improving an Iterative Physics Solver Using a Direct Method

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=OhV_DNji_0U
 views: 22481
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Face-to-Parameter Translation via Neural Network Renderer

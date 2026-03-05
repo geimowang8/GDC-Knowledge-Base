@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fYBvYWf_dTg
 views: 38633
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Indie Polish: Making the Most of the Last 10%

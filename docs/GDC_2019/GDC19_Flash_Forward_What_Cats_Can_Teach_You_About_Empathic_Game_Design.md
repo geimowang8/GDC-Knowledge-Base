@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qMLvG2Awuy0
 views: 3501
 year: 2019
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC19 Flash Forward: What Cats Can Teach You About Empathic Game Design

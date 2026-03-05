@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=bEjUIHEeKQU
 views: 22694
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # "Swiping on the Six Strings": Crafting an Interactive Guitar in 'The Last of Us: Part II'

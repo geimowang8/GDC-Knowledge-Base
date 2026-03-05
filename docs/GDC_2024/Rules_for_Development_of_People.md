@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dfBh3dNlyCE
 views: 8062
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Rules for Development (of People)

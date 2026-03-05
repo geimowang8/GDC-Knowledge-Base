@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=BWt-4Gn9UeM
 views: 6905
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Defining Themes of the Modern Console Market

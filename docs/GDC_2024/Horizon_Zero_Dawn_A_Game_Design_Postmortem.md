@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=TawhcWao9ls
 views: 125743
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Horizon Zero Dawn: A Game Design Postmortem

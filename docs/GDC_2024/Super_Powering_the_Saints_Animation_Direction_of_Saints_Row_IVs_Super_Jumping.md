@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0Oj-Mi3wnqw
 views: 3821
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Super Powering the Saints: Animation Direction of Saints Row IV's Super Jumping

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uaQP0YY0Eso
 views: 8352
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Indie Game Marketing Tips With Failbetter's Hannah Flynn - GDC Podcast Ep. 5

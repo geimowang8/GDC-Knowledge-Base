@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GpsKrAipXm8
 views: 115846
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Math for Game Programmers: Interaction With 3D Geometry

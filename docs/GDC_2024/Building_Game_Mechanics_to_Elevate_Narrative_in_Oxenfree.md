@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=p0QWc9tNJS4
 views: 17681
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building Game Mechanics to Elevate Narrative in Oxenfree

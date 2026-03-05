@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZSVREGmO1Xw
 views: 6213
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Legacy Games: From Risk to Pandemic to SeaFall & Beyond

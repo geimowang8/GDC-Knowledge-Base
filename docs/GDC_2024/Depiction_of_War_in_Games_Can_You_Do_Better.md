@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZHRWXyIU19A
 views: 7862
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Depiction of War in Games: Can You Do Better?

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=k5EFEV1sfgM
 views: 8050
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # From Weapons to Wizards: Transforming Aesthetic and Modularity in 'Tiny Tina's Wonderlands'

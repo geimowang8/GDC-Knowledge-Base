@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HrUF-LFTs-A
 views: 6933
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # From Clash of Clans to Everdale: Scaling from Solo to Social

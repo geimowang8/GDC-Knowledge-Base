@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mGHCOOnI5aE
 views: 14357
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Simulating Tropical Weather in 'Far Cry 6'

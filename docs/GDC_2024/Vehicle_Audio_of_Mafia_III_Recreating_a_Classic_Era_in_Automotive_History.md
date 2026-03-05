@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4QAWxR3p8gs
 views: 4341
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Vehicle Audio of Mafia III: Recreating a Classic Era in Automotive History

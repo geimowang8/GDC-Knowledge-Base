@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Bs9ayR1dfLw
 views: 7823
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Fandom-Ready: Creating Fiction in the Age of Fan Consumption

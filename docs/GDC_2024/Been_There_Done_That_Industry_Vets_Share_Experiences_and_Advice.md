@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ytHpANp9EDE
 views: 6603
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Been There, Done That: Industry Vets Share Experiences and Advice

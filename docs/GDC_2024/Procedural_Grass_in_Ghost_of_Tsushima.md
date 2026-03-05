@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ibe1JBF5i5Y
 views: 90767
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Procedural Grass in 'Ghost of Tsushima'

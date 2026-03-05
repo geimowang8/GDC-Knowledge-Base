@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yIdkFoYdeSE
 views: 5019
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Resolve of the Latin American Gaming Industry

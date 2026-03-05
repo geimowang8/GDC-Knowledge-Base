@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=24HHIKOA1ZA
 views: 7552
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Approaching a Pedagogy of Game Writing

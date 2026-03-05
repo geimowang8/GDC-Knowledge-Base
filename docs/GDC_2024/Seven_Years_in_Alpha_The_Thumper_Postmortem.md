@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ckm8_SEIXQM
 views: 53869
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Seven Years in Alpha: The Thumper Postmortem

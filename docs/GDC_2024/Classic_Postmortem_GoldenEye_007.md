@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Z1Fx18cppZk
 views: 24849
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Classic Postmortem: GoldenEye 007

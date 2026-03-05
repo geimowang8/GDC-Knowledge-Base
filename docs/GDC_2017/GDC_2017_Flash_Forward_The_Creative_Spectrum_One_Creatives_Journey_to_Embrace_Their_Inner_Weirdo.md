@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8sBcdzqVL3k
 views: 1689
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: The Creative Spectrum: One Creative's Journey to Embrace Their Inner Weirdo

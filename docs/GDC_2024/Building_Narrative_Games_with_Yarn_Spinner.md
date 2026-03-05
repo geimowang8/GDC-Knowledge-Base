@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=549J0eHE88k
 views: 12820
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building Narrative Games with Yarn Spinner

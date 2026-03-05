@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=s_I07Iq_2XM
 views: 173342
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Into the Breach Design Postmortem

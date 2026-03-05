@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XW7KvppTspc
 views: 61764
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Level Design Workshop: Architecture in Level Design

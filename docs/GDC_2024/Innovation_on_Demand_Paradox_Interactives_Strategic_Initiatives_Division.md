@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XFRNaURh7fQ
 views: 3046
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Innovation on Demand: Paradox Interactive's Strategic Initiatives Division

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=xCZwEACWowc
 views: 3518
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Games as Community Driven Care: A Case Study of Co-design for Aphasia

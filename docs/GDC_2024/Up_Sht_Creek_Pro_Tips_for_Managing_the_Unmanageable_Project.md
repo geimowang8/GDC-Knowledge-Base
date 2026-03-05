@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dNlEZZlmIcw
 views: 21142
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Up Sh*t Creek: Pro Tips for Managing the Unmanageable Project

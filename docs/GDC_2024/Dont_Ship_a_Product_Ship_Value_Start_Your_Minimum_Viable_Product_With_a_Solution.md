@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=w5LaYouF2p4
 views: 15930
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Don't Ship a Product, Ship Value: Start Your Minimum Viable Product With a Solution

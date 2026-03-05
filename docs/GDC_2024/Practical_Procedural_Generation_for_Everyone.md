@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WumyfLEa6bU
 views: 379255
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Practical Procedural Generation for Everyone

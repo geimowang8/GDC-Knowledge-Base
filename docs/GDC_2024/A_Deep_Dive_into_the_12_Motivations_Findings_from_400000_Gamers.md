@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=gxJUPfKtg_Q
 views: 40961
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Deep Dive into the 12 Motivations: Findings from 400,000+ Gamers

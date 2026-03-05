@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4Go_hzVhh90
 views: 9942
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Realizing Responsive High Fidelity Character Movement in Just Cause 3

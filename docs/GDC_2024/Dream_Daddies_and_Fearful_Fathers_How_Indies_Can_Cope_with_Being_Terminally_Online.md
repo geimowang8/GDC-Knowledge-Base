@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tuZcdhXS770
 views: 11583
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Dream Daddies and Fearful Fathers: How Indies Can Cope with Being Terminally Online

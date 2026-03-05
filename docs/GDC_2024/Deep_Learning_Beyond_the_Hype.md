@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yA-lJy52Ais
 views: 19941
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Deep Learning: Beyond the Hype

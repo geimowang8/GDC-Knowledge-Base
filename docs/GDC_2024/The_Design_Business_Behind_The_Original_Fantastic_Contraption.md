@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=gl8n6WYFb3A
 views: 2725
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Design & Business Behind The Original Fantastic Contraption

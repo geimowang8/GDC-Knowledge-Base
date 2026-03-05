@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cHQZN6Kw88k
 views: 11062
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Beyond NPCs: AI for Game Operations

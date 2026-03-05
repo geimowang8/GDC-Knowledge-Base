@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RFWrKHM0vAg
 views: 17744
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Modeling AI Perception and Awareness in Splinter Cell: Blacklist

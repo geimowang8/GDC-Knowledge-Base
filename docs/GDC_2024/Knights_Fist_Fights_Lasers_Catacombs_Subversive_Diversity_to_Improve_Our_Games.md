@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=guGzToBpF10
 views: 7803
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Knights, Fist Fights, Lasers & Catacombs: Subversive Diversity to Improve Our Games

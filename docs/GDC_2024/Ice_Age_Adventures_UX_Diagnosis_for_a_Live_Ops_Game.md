@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Q1cnbIz4csA
 views: 2531
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Ice Age Adventures: UX Diagnosis for a Live-Ops Game

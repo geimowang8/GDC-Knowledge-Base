@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Wdyb_UmIaAc
 views: 5295
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Emotional Neural Style Transfer: Expressing Character AI Emotion through Paintings

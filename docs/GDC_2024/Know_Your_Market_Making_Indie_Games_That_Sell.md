@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uy0Dfr-mnUY
 views: 179061
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Know Your Market: Making Indie Games That Sell

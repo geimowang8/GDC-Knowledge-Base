@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vi0-S0BM7tI
 views: 6147
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Dreams Live Concert

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SdxQ3HlhTE8
 views: 32567
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Art of Firewatch

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dr17S0I_h78
 views: 20741
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building Machines for a Better Future in 'Horizon'

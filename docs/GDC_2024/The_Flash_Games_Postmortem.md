@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=65crLKNQR0E
 views: 136780
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Flash Games Postmortem

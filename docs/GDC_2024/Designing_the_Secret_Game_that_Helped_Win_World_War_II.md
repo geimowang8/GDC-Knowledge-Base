@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=01UiEi6HkEY
 views: 5823
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing the Secret Game that Helped Win World War II

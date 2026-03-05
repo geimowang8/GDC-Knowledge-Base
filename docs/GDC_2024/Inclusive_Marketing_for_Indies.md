@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zMB3It1zHWQ
 views: 6905
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Inclusive Marketing for Indies

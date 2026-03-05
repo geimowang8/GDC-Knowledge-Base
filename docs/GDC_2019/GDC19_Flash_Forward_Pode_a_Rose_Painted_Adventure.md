@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZLw6Mx5VgaM
 views: 1973
 year: 2019
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC19 Flash Forward: Pode, a Rose Painted Adventure

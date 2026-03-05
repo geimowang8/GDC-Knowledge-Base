@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yI3Z7lCMgX0
 views: 3633
 year: 2019
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC19 Flash Forward: Level Design Workshop: Nothing is Original: Leveraging Existing Assets

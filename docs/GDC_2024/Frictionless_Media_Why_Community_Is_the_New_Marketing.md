@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3k9DOkx8I6g
 views: 7953
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Frictionless Media: Why Community Is the New Marketing

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=c--8slawXdw
 views: 9289
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A New Dimension to Below: Personal Discovery and Adaptation

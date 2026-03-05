@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ew9aLIp0Evc
 views: 20657
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Lives of Others: How NPCs Can Increase Player Empathy

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-YjeE8uq4XA
 views: 5039
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Life is Strange: Music in a Narrative Driven Game

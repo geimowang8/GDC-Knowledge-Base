@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mrZlSDngwH8
 views: 29778
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Diary of a Modern PR Campaign: How to Plan Your Game's Promotion

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=q83f3sdQBBc
 views: 9086
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Job Simulator to Vacation Simulator: Advanced Interactions for Room-Scale VR

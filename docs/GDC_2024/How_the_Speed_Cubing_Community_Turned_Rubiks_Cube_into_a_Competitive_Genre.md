@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dTfY391nQfI
 views: 4035
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How the Speed Cubing Community Turned Rubik's Cube into a Competitive Genre

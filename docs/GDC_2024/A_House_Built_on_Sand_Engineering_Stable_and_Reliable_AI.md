@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=OBusUGlnmWI
 views: 36757
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A House Built on Sand: Engineering Stable and Reliable AI

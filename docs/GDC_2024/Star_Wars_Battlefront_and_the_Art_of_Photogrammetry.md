@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=U_WaqCBp9zo
 views: 128344
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Star Wars: Battlefront and the Art of Photogrammetry

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GovoDxVdAgE
 views: 8988
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Towards Filmic Quality at 30 FPS: Real-Time Ray Tracing for Practical Game Engine Pipelines

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_kRfMKfDl7s
 views: 14024
 year: 2016
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The 2016 GDC Animation Microtalks

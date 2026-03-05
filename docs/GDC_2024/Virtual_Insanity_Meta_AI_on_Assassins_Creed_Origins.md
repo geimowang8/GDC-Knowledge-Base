@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=a09vnDjmY_E
 views: 16269
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Virtual Insanity: Meta AI on Assassin's Creed: Origins

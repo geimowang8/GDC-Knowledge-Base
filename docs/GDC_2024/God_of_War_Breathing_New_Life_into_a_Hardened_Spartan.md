@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ARBNHvxiwiU
 views: 41309
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # God of War: Breathing New Life into a Hardened Spartan

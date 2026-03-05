@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=t3nx0sMi-5A
 views: 3246
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Changing Navigation Mid-Flight: 'War Dragons', a UX Redesign on Mobile

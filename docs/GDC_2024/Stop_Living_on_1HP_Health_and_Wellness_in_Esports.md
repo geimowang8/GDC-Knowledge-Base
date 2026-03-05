@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=KL-2W1L-JJU
 views: 3804
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Stop Living on 1HP: Health and Wellness in Esports

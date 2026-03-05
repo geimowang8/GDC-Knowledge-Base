@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=B97mOZ0_lKU
 views: 7555
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Faerie Dust and Sparkles: Bringing Your AI Characters to Life

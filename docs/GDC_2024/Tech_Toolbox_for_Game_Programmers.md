@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=W_okgL6HJX8
 views: 240365
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tech Toolbox for Game Programmers

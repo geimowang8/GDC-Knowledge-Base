@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WEguUNTHwgY
 views: 11699
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Build Your Career in Games Like It's an RPG

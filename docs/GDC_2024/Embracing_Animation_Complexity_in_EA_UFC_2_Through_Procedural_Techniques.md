@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1nSshgQ3HM4
 views: 4628
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Embracing Animation Complexity in EA UFC 2 Through Procedural Techniques

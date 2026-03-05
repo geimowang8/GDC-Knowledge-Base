@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mnIsv2ps31U
 views: 2696
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Games Accelerators for the Arts, Not for Monetization

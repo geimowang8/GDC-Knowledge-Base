@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=oMFyKpKAElA
 views: 4232
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Reigns: Game of Thrones: A Song of Fire and License

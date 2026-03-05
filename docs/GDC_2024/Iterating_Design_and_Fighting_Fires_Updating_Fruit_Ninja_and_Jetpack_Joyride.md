@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=w8bhVy_lY-0
 views: 6448
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Iterating Design and Fighting Fires: Updating Fruit Ninja and Jetpack Joyride

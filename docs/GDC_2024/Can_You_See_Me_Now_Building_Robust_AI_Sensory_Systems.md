@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pUXS9snrZE4
 views: 10269
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Can You See Me Now? Building Robust AI Sensory Systems

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Z5LMUbjyFQM
 views: 20413
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating Complex AI Behavior in Stellaris Through Data-Driven Design

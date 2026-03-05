@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=d__EiDbhFa4
 views: 4633
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # HITMAN Season 1: From Executive Producer to Showrunner

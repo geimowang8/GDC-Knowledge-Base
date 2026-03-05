@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yvQIOrTPMCs
 views: 3667
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Cultural Intelligence: Skills to Thrive in a Global Industry

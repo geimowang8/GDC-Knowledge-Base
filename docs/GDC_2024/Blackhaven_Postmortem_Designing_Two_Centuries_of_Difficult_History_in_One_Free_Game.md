@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=PZo5XzF-3xQ
 views: 4858
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 'Blackhaven' Postmortem: Designing Two Centuries of Difficult History in One Free Game

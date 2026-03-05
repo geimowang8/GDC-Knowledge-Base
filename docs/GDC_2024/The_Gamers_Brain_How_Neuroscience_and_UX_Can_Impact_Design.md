@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XIpDLa585ao
 views: 37781
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Gamer's Brain: How Neuroscience and UX Can Impact Design

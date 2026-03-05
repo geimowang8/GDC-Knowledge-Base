@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8i_21zGCRC8
 views: 2223
 year: 2018
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2018 Flash Forward: Automatic VR Previsualization from Natural Language Scripts

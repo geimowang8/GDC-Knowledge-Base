@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pZp9g7Iumj8
 views: 12007
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Feeding the Maw: Managing a Live Narrative Game in Fallen London

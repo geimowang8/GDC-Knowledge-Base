@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6OMeEaDUqR8
 views: 9200
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Is Your Game Cross-Platform Ready?

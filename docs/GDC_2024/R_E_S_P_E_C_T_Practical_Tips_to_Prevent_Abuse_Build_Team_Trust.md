@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ra2sNopaLH8
 views: 3394
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # R-E-S-P-E-C-T: Practical Tips to Prevent Abuse & Build Team Trust

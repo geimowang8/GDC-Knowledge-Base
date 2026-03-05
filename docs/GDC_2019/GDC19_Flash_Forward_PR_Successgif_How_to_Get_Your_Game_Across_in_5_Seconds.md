@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=xYTKC_KWEj0
 views: 3728
 year: 2019
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC19 Flash Forward: PR Success.gif: How to Get Your Game Across in 5 Seconds

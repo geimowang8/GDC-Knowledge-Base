@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sHolirTf9CI
 views: 14524
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Siege Battle AI in Total War: Warhammer

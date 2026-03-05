@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=isnfdkWtHmk
 views: 3710
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Never Alone: The Art and the People of the Story

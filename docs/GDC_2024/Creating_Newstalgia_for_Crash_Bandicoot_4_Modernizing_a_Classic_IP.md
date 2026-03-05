@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=FwjW10ADGnE
 views: 12294
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating Newstalgia for 'Crash Bandicoot 4': Modernizing a Classic IP

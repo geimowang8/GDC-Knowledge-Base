@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Rx6j9AOpg68
 views: 4228
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Beat it: A Retrospective of Need for Speed: Hot Pursuit

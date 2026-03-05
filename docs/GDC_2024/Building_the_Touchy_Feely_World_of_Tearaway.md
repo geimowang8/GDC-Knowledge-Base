@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=nP5ypIUmpz0
 views: 4351
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building the Touchy-Feely World of Tearaway

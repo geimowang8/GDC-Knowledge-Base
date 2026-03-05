@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pLEyDS6-_3Q
 views: 5082
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Exploding the Box: Thinking Differently in the A + B Era

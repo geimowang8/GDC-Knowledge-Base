@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tAbBID3N64A
 views: 39109
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AI-driven Dynamic Dialog through Fuzzy Pattern Matching

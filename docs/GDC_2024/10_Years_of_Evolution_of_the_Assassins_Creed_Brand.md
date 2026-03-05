@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Jcw9xV1NmlE
 views: 16153
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 10 Years of Evolution of the Assassin's Creed Brand

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=LFsMenc5Q8I
 views: 63274
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Applying 3D Level Design Skills to the 2D World of Hyper Light Drifter

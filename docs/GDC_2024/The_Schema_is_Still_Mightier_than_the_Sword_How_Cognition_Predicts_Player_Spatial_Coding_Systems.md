@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cDOAueN6mIc
 views: 7699
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Schema is (Still) Mightier than the Sword: How Cognition Predicts Player Spatial Coding Systems

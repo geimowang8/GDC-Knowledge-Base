@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zto7ZP2-ooM
 views: 9318
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Scaling to 10 Concurrent Users: Online Infrastructure as an Indie

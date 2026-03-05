@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=78F_HNWuqbw
 views: 16139
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Integrating 2D UI with VR Environments

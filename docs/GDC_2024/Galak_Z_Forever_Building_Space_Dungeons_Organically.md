@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=38xLmlomvyE
 views: 6941
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Galak-Z: Forever: Building Space-Dungeons Organically

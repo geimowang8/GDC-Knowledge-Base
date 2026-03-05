@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VY8TsXKRySU
 views: 14725
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Dots That Go for Walks: How to Maximize Minimal UI

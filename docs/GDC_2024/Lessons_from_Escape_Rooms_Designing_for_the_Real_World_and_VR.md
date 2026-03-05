@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=32n1YqWU45c
 views: 30367
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Lessons from Escape Rooms: Designing for the Real World and VR

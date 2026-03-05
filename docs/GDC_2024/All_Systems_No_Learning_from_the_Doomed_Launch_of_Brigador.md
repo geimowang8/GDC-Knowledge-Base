@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qUsuusNLxik
 views: 47598
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # All Systems No: Learning from the Doomed Launch of Brigador

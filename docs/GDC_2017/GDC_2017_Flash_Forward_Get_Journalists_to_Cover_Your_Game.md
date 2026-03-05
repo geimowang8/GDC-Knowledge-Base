@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=am_6UYnaSc4
 views: 2635
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Get Journalists to Cover Your Game

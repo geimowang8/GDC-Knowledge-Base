@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=m5KJSAj4afg
 views: 28370
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Breathing Life into Greek Myth: The Dialogue of 'Hades'

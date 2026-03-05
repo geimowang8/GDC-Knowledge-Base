@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=g4vT_xNsxvM
 views: 7439
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # David & Goliath: How a Newbie Solo Developer Landed on Xbox Game Pass

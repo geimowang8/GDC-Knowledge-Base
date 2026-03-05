@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=f--0VysQjuE
 views: 8519
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Running a Post-Apocalyptic Indie Studio

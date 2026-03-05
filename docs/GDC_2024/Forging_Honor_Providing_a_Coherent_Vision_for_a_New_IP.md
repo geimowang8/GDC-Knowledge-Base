@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SN8RjXYjJe4
 views: 39668
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Forging Honor: Providing a Coherent Vision for a New IP

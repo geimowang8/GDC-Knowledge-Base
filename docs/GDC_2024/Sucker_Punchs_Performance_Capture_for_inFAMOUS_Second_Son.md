@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dTKrIa9uCgs
 views: 5880
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Sucker Punch's Performance Capture for inFAMOUS: Second Son

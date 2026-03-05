@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RO2CKsl2OmI
 views: 9528
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Behavior is Brittle: Testing Game AI

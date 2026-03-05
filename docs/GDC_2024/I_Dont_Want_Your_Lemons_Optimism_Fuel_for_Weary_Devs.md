@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=PU-zR8xzB5Q
 views: 10887
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # I Don't Want Your Lemons: Optimism Fuel for Weary Devs

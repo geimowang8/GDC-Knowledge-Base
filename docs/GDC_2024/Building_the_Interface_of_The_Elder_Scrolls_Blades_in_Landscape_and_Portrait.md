@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Tmt5v0bL1-Y
 views: 6669
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building the Interface of The Elder Scrolls: Blades in Landscape and Portrait

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=bpFdfrg8SvY
 views: 13949
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Restoring the Forest: Capturing the Themes of 'Kena' Through VFX

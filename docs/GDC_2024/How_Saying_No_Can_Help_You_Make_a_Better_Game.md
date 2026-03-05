@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=r7eHlKBQVQ0
 views: 9999
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How Saying 'No' Can Help You Make a Better Game

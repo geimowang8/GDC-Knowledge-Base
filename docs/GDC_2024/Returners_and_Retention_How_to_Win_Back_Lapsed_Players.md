@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3LnrzbqX_Xc
 views: 7519
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Returners and Retention - How to Win Back Lapsed Players

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Hzt5TnynTrM
 views: 4005
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Secret of Eternal (Product) Life: Lessons from J.R.R Tolkien and John Madden

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pwjM5vxL4-U
 views: 11727
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing Gambit Mode in Destiny 2: Forsaken

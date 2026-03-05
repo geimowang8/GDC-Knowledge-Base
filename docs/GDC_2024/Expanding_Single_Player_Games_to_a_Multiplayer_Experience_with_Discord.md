@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=hKT_PONLncg
 views: 5616
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Expanding Single-Player Games to a Multiplayer Experience with Discord

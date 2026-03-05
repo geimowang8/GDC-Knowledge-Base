@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=mR8cBLgwFuE
 views: 5514
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Living the Dream or Surviving the Nightmare: Making Commercial Indie Games as a Professor

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=N4UFC0y1tY0
 views: 115593
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Put Your Name on Your Game, a Talk by Bennett Foddy and Zach Gage

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ucAtO7lkEjI
 views: 5826
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Bane of All Development Postmortems: Communication is Hard So Give Up Now

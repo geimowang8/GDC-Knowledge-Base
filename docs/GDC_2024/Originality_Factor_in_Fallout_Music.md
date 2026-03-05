@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=L9LWeb4bJWE
 views: 4785
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Originality Factor in Fallout Music

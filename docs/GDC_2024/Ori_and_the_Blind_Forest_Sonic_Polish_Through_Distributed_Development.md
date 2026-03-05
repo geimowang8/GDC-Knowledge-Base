@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_aQ05AP8MV8
 views: 13540
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Ori and the Blind Forest: Sonic Polish Through Distributed Development

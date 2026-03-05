@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0A4P6MaQxTs
 views: 28638
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Math for Game Programmers: Mixing Geodetic, Hand-crafted and Procedural Geometry

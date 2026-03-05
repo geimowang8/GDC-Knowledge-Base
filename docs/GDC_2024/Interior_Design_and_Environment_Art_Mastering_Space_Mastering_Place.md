@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WWXsmnlmADc
 views: 191796
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Interior Design and Environment Art: Mastering Space, Mastering Place

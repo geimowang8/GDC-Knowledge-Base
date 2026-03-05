@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YjuOSgPdtS0
 views: 14450
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Emergent Storytelling Techniques in The Sims

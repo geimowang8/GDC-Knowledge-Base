@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=DcxRUc092WY
 views: 9527
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How Do You Make a Game That Was Supposed to Be Small, but Ended up Being Huge

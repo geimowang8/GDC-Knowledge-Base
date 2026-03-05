@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=H97yxaa08SA
 views: 8948
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # SimCity BuildIt - What Did I Learn as a Game Designer?

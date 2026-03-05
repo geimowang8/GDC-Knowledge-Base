@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-38BH95ERn0
 views: 10328
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Rewarding Exploration in Deus Ex: Mankind Divided

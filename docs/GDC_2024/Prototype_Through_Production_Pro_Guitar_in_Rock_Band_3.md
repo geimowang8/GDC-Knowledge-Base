@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HrZWGGl5duk
 views: 2700
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Prototype Through Production: Pro Guitar in Rock Band 3

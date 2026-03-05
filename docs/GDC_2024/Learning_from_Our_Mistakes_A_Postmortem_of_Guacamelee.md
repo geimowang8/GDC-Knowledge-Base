@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6-6WX3VMHoM
 views: 11414
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Learning from Our Mistakes: A Postmortem of Guacamelee!

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WBF2RyeEOlA
 views: 15123
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Wikipedia Doesn't Know Can Hurt You: Writer Research Skills

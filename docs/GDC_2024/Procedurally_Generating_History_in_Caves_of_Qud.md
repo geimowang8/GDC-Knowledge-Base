@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=H0sLa1y3BW4
 views: 27655
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Procedurally Generating History in Caves of Qud

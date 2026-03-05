@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dP4Kak2-S6c
 views: 5284
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How Killer Queen Built an Esports Scene on an Indie Budget

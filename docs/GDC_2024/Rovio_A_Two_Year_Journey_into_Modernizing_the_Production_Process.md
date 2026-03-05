@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=j2atS6K3ItE
 views: 5422
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Rovio: A Two Year Journey into Modernizing the Production Process

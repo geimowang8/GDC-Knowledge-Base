@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qX5-2D8SP5A
 views: 22822
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Writing Modular Characters for System-Driven Games

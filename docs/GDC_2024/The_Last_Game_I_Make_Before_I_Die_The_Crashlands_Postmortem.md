@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=LQHtOg46eOw
 views: 126964
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Last Game I Make Before I Die: The Crashlands Postmortem

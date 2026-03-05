@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ur53sJdS8rQ
 views: 37880
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Zen of Streaming: Building and Loading 'Ghost of Tsushima'

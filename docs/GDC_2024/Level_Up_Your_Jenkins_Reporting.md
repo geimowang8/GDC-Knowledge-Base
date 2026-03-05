@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GIxRB7yOdHE
 views: 5164
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Level Up Your Jenkins Reporting

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=TmAU8aPekEo
 views: 34951
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Physical Animation in Star Wars Jedi: Fallen Order

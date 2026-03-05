@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UNxOxiR5T_M
 views: 73965
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Texturing Uncharted 4: A Matter of Substance (presented by Allegorithmic)

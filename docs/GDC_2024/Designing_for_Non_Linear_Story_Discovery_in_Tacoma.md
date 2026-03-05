@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=OwiF5OWdBBY
 views: 10724
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing for Non-Linear Story Discovery in Tacoma

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tbf4--807IA
 views: 2145
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: The Flexible Music System of 'Plants vs. Zombies Heroes'

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=oh-RZJN-N3s
 views: 6831
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Project Discovery: Lessons From Scientific Research in EVE Online

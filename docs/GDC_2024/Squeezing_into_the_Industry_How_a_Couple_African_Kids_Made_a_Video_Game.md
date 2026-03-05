@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4jCKkwNfmvs
 views: 8268
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Squeezing into the Industry: How a Couple African Kids Made a Video Game

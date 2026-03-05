@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=hVRdKoxvruA
 views: 22631
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Animating the Main Villain in Marvel's Spider-Man (or "What, I'm Rigging HOW Many Legs?!")

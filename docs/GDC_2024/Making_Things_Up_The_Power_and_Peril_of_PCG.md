@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=B11RlHZsmGE
 views: 13508
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Making Things Up: The Power and Peril of PCG

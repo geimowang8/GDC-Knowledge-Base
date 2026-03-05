@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=NhMDTxnzQuA
 views: 26195
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Holy Grail of Multiplayer Level Design: Casual and Competitive Maps

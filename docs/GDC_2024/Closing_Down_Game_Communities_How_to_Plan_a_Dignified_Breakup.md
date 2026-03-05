@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=h6rFEiW-v8Y
 views: 4692
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Closing Down Game Communities: How to Plan a Dignified Breakup

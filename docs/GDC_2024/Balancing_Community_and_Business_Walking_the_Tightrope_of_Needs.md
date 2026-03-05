@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tuuw9qPFAF0
 views: 1849
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Balancing Community and Business: Walking the Tightrope of Needs

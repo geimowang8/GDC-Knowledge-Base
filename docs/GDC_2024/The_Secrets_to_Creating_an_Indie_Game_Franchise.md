@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=h7dOaShW4VQ
 views: 17245
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Secrets to Creating an Indie Game Franchise

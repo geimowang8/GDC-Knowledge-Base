@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ndPyhgorOKY
 views: 14847
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Epic Sync: Wrangling the Work of Highly Interdependent Dev Teams at Bungie

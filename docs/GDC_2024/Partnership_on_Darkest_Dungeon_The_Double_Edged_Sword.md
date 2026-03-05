@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UoogT3XOl-8
 views: 8666
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Partnership on Darkest Dungeon: The Double-Edged Sword

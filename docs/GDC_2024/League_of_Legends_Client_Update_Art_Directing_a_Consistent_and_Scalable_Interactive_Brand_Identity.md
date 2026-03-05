@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GB5GO9C5z4U
 views: 13244
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # League of Legends Client Update: Art Directing a Consistent and Scalable Interactive Brand Identity

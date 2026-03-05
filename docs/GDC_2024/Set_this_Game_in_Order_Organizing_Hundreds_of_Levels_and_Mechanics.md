@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=CEn44ZN4RLQ
 views: 9718
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Set this Game in Order: Organizing Hundreds of Levels and Mechanics

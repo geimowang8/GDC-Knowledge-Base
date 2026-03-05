@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=q1HY1G6cd2Q
 views: 4731
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Evolving JRPG Audio Culture

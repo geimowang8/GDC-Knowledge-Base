@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=r30CIneO534
 views: 113546
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Do We Mean When We Say Indiepocalypse?

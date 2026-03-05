@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=axkPXCNjOh8
 views: 137725
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Hearthstone: How to Create an Immersive User Interface

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pa6fsPMqAmU
 views: 4250
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Accessible Player Experiences: A New Approach to Data Informed Design for Accessible Games

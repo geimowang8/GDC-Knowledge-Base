@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HZft_U4Fc-U
 views: 83021
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Narrative Sorcery: Coherent Storytelling in an Open World

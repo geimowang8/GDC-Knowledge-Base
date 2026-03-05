@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Sb2U_9IGgc0
 views: 10061
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Physiological Effects of Crunch: A Look at the Science

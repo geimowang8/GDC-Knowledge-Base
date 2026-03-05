@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3F0RcTBuKHc
 views: 3386
 year: 2000
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A GDC 2000 conversation with Shenmue creator Yu Suzuki

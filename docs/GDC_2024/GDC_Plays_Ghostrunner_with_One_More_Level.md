@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uDj1q_YK_hg
 views: 3998
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Plays Ghostrunner with One More Level

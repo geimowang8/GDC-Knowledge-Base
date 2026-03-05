@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=eLnvEwo4M8Q
 views: 28151
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Art Direction Bootcamp: Building a Visual Threshold

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sN1RWuGyslE
 views: 6259
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing for Inclusivity in 'The Sims'

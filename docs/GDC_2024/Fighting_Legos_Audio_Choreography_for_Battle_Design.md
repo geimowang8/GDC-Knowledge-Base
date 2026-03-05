@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=CdmlxeJ-3gM
 views: 3737
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Fighting Legos: Audio Choreography for Battle Design

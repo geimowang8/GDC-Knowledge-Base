@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=o2C4z_apu2I
 views: 52109
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Offworld Trading Company: An RTS Without Guns

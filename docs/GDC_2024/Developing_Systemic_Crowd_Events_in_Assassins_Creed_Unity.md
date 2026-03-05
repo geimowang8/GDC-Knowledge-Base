@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=FaV88JAWnbQ
 views: 11538
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Developing Systemic Crowd Events in Assassin's Creed Unity

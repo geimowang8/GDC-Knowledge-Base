@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Sco0iou_q1E
 views: 16976
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # An Architectural Approach to Level Design: Creating an Art Theory for Game Worlds (and So Can You!)

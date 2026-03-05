@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XCHSTy5l63Y
 views: 6899
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Cost-Benefit Analysis: Is That New Tech Worth It?

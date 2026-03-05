@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=EDlbJdmo7KE
 views: 41864
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Art Direction of Street Fighter V: The Role of Art in Fighting Games

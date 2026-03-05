@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jNzJpISSPYs
 views: 3479
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Plays Ashwalkers with Herve Bonin and Matteo Gaulmier

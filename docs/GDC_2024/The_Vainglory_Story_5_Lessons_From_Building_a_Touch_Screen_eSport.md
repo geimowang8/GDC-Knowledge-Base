@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=eahasQ3X_Ic
 views: 2792
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Vainglory Story - 5 Lessons From Building a Touch Screen eSport

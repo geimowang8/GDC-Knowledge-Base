@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=IFFy2iI8fX8
 views: 31222
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What We Can Learn from "Classic" Game Music

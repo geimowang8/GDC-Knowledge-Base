@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HnguuY9IRro
 views: 16998
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Marvel's Spider-Man: Procedural Lighting Tools

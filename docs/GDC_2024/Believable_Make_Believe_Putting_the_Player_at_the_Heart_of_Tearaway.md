@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1wyToyTk3D0
 views: 3280
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Believable Make-Believe: Putting the Player at the Heart of Tearaway

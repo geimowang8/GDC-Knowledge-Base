@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Wk17Xn6MmDQ
 views: 7046
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # From Assassin's Creed to The Dark Eye: The Importance of Themes

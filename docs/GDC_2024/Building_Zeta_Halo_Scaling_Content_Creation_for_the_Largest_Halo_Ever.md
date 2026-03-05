@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cf1FhcvF54E
 views: 7461
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building 'Zeta Halo': Scaling Content Creation for the Largest 'Halo' Ever

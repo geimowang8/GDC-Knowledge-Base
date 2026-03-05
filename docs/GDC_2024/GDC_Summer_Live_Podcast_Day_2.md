@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=rMlwAhDdtOc
 views: 1159
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Summer Live Podcast - Day 2

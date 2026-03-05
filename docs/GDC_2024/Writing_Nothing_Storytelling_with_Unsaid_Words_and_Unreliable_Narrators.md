@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=LPkbAMj-xVA
 views: 44464
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Writing 'Nothing': Storytelling with Unsaid Words and Unreliable Narrators

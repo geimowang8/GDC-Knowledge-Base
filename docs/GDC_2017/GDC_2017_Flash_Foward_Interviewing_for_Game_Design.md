@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fzkOnJDMBd0
 views: 2486
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Foward: Interviewing for Game Design

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0yyeLmjQGFg
 views: 18193
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Producer Bootcamp: High Performance Producers

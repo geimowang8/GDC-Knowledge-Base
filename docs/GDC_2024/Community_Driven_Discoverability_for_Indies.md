@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QIbO7OKx0Eg
 views: 6342
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Community Driven Discoverability for Indies

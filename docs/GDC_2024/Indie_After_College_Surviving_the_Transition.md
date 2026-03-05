@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=PFrGnenk124
 views: 23886
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Indie After College: Surviving the Transition

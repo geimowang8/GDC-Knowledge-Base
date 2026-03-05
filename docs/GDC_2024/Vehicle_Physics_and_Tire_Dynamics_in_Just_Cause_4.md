@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0jsENVOmkxc
 views: 15619
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Vehicle Physics and Tire Dynamics in Just Cause 4

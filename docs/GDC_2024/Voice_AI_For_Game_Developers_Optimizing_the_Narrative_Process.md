@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Su8btmd5jr0
 views: 8005
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Voice AI For Game Developers: Optimizing the Narrative Process

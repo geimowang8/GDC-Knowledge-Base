@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=xy63uYqcC1g
 views: 5798
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Play Your Way to Higher Pay: What Leaders Can Learn from Game Designers

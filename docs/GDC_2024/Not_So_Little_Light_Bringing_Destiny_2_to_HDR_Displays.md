@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=9jvhM8B63ng
 views: 6100
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Not-So-Little Light: Bringing Destiny 2 to HDR Displays

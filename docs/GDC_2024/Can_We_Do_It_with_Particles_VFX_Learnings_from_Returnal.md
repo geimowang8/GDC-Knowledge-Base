@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qbkb8ap7vts
 views: 36522
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Can We Do It with Particles?: VFX Learnings from 'Returnal'

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=e7p4GPqpf18
 views: 6133
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Ghost in the Machine: Authorial Voice in System Design, 'Frostpunk' & Beyond

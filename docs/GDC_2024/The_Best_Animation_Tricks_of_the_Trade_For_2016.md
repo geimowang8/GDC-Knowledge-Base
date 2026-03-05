@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_1j5Tf6ulII
 views: 295247
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Best Animation Tricks of the Trade (For 2016)

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3DXAVeJh_-0
 views: 10148
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Freelancing Tech Art Part-Time: A Few Dos and Don'ts

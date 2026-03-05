@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=POMq4bO2RaI
 views: 2822
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC plays Astroneer with System Era's Brendan Wilson

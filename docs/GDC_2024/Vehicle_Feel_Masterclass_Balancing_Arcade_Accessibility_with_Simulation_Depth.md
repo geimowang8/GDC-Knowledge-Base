@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=n_A0RqeGado
 views: 12704
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Vehicle Feel Masterclass: Balancing Arcade Accessibility with Simulation Depth

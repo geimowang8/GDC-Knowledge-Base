@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Zzxf9pWpWx4
 views: 63031
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Jumpstarting Your Creativity: From Hobbyist to Professional

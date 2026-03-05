@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1qH8PWeHyo8
 views: 18628
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Change Is Good: The Importance of Iteration Within a Character Art Pipeline

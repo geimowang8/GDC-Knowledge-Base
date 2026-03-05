@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ToCozpl1sYY
 views: 89505
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GPU-Based Run-Time Procedural Placement in Horizon: Zero Dawn

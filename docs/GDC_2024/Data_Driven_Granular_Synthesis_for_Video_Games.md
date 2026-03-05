@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=FEK8Ggg2xxQ
 views: 5804
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Data Driven Granular Synthesis for Video Games

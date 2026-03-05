@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Y0nyMD830tc
 views: 19532
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # We Failed at Publishing Competitive Games so You Don't Have to

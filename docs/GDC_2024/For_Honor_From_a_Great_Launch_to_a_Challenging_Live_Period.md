@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=EOJ1Y3xRpwc
 views: 5578
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # For Honor: From a Great Launch to a Challenging Live Period

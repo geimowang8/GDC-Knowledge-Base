@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=JcyyeAww2wc
 views: 70921
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing Race for the Galaxy: Making a Strategic Card Game

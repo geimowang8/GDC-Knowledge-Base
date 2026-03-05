@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=FhKjv7CPUqw
 views: 32805
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Level Design Workshop: A Narrative Approach to Level Design

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=KOEzGivjvGA
 views: 4708
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Advanced Environmental Storytelling in Spider: Rite of the Shrouded Moon

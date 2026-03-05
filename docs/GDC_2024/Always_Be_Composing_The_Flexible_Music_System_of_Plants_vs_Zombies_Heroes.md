@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=T6tmq5DTe9M
 views: 4584
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Always Be Composing: The Flexible Music System of Plants vs. Zombies Heroes

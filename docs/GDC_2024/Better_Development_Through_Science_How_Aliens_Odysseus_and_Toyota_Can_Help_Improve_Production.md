@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=dOgXwnOgbiE
 views: 4297
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Better Development Through Science: How Aliens, Odysseus, and Toyota Can Help Improve Production

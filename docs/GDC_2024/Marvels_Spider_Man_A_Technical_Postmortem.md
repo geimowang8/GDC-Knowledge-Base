@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=KDhKyIZd3O8
 views: 166536
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Marvel's Spider-Man: A Technical Postmortem

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qie4My7zOgI
 views: 19938
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Player-Driven Stories: How Do We Get There?

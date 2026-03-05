@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jVac5IFXpFo
 views: 33422
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Signal Processing For Sound Design

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4oDtGnQNCx4
 views: 48733
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Water Rendering in Far Cry 5

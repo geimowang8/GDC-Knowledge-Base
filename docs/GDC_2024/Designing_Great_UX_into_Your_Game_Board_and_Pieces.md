@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=911ZXqX3cSU
 views: 10254
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing Great UX into Your Game Board and Pieces

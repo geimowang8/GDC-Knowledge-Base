@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=knWzlR8mGWA
 views: 8171
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 360 Approach for Open World Mission Design in Far Cry and Assassin's Creed

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=hz0g9MqSkwo
 views: 13741
 year: 2022
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2022 Main Stage: The Developer's Renaissance

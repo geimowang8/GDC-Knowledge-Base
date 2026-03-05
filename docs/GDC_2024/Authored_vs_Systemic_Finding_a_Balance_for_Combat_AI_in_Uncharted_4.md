@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=G8W7EQKBgcg
 views: 18871
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Authored vs. Systemic: Finding a Balance for Combat AI in Uncharted 4

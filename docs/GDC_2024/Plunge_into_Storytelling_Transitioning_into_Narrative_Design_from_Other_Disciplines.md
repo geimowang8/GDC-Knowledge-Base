@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=BV41WqouRrc
 views: 11114
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Plunge into Storytelling: Transitioning into Narrative Design from Other Disciplines

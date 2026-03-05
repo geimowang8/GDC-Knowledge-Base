@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=g7fb9ljgE9Y
 views: 4331
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing for AR: A Postmortem on the Development of 'Woorld'

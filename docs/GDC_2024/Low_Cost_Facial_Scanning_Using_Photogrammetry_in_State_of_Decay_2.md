@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-NEznB-Lrlg
 views: 9110
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Low Cost Facial Scanning Using Photogrammetry in State of Decay 2

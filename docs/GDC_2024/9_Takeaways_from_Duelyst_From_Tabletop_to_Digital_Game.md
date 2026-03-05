@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ledzya1YVSg
 views: 7004
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 9 Takeaways from Duelyst: From Tabletop to Digital Game

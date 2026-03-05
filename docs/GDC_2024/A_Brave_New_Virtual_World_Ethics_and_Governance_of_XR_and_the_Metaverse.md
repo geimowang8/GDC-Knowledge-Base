@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8v6IC-0Gi3o
 views: 5018
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Brave New (Virtual) World: Ethics and Governance of XR and the Metaverse

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jdc9-N48Cl4
 views: 6624
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Thriving in Steam Early Access: Turning 20XX's Slow Launch into Success

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=hri6M1AAoSo
 views: 90841
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Reclaiming My Soul: Why I Quit Making F2P Social Games

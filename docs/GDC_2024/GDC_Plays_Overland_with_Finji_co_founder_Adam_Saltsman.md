@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GaK69kwk3m4
 views: 2563
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Plays Overland with Finji co-founder Adam Saltsman

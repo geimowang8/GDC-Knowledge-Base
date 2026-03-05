@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WggIdtrqgKg
 views: 46272
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Sid Meier's Interesting Decisions

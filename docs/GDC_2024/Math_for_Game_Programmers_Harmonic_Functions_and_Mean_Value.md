@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ymDsTwysnPI
 views: 12561
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Math for Game Programmers: Harmonic Functions and Mean-Value

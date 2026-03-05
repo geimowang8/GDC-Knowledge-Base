@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VTDoos7MRQY
 views: 5116
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Power of the Pack: Success via Community-Based Development

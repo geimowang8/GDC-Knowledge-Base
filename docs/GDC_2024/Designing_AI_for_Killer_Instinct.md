@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=9yydYjQ1GLg
 views: 13079
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing AI for Killer Instinct

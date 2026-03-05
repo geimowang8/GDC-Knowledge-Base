@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ul1MSQ8aW00
 views: 80672
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Board Game Design Day: Balancing Mechanics for Your Card Game's Unique Power Curve

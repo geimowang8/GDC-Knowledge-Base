@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=geErfczxwjc
 views: 15099
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Recalibrating Our Limits: Lighting on 'Ratchet and Clank: Rift Apart'

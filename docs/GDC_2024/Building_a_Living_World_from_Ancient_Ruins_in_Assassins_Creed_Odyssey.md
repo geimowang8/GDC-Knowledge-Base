@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=DBqa7Um28m8
 views: 34469
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building a Living World from Ancient Ruins in Assassin's Creed Odyssey

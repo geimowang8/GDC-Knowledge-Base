@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qCUEGvIgco8
 views: 7018
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Gears of War 4, Project Triton: Pre-Computed Environmental Wave Acoustics

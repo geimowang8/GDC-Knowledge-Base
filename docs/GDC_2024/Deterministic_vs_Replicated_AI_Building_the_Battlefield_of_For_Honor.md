@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4Z0aUEBp_Os
 views: 9062
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Deterministic vs. Replicated AI: Building the Battlefield of For Honor

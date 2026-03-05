@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=NRnrpzE7u9c
 views: 4480
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating Narrative Context for Store Cosmetics

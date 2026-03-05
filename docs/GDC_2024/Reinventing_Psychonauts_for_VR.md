@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=j1r_Og_Q__0
 views: 6237
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Reinventing Psychonauts for VR

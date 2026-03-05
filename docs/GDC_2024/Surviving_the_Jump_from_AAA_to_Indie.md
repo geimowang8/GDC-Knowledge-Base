@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Fft1UCxEwGA
 views: 6584
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Surviving the Jump from AAA to Indie

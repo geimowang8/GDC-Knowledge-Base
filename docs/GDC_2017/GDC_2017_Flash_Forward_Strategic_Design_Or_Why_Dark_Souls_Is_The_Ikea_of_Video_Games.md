@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=f0B2lrDYXb0
 views: 2546
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Strategic Design Or Why Dark Souls Is The Ikea of Video Games

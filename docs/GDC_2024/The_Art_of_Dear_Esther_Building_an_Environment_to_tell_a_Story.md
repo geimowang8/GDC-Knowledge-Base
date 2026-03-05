@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=a2oREGSkFgM
 views: 11974
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Art of Dear Esther – Building an Environment to tell a Story

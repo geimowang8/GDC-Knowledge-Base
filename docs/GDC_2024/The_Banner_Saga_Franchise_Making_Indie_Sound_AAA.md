@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=H41jWHvCn90
 views: 8416
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Banner Saga Franchise: Making Indie Sound AAA

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1h4M7zDPg1Y
 views: 21315
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Vertical Slice Challenge

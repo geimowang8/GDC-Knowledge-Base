@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VVq_hgaX8MQ
 views: 20562
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Assassin's Creed Origins: Monitoring and Validation of World Design Data

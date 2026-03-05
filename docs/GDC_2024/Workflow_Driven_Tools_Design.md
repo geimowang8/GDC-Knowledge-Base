@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kAfb0yx07Po
 views: 9106
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Workflow Driven Tools Design

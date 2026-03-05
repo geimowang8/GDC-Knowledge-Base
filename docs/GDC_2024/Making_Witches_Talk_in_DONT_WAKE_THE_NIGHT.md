@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=n_A4cGmY62w
 views: 4137
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Making Witches Talk in 'DON'T WAKE THE NIGHT'

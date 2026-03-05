@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GZ99gAb4T0o
 views: 92738
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Importance of Nothing: Using Negative Space in Level Design

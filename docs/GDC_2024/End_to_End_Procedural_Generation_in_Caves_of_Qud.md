@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jV-DZqdKlnE
 views: 117636
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # End-to-End Procedural Generation in Caves of Qud

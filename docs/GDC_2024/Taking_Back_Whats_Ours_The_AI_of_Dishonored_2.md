@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VoXSJBVqdek
 views: 15625
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Taking Back What's Ours: The AI of Dishonored 2

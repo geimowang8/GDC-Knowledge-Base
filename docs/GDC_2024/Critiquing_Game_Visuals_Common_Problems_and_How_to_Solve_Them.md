@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Dm24XyRPMwg
 views: 38902
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Critiquing Game Visuals: Common Problems and How to Solve Them

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vGCeTgmG1F8
 views: 16884
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Q&A Session For New Game Writers

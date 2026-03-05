@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=EcTaSCZ0PL0
 views: 6934
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Frag You, Pay Me: Getting Started with Salary Negotiation

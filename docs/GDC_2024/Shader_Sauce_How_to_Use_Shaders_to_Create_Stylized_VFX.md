@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pqdVG_qcKok
 views: 22359
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Shader Sauce: How to Use Shaders to Create Stylized VFX

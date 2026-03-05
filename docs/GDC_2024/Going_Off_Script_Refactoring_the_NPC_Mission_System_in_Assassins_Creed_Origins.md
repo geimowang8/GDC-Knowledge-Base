@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=oKWZ2UnKYt4
 views: 9386
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Going Off-Script: Refactoring the NPC Mission System in Assassin's Creed: Origins

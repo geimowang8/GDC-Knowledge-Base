@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kC_Vnuk4GSU
 views: 5723
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Character Balance in Skylanders: More than the Numbers

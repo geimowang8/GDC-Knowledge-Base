@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7L71MA4Bq2s
 views: 16257
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing the Tutorial for The Last of Us

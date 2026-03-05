@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YmNgREFUXh0
 views: 2986
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How FIFA Delivers Live Content to Users Fast

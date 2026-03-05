@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0d1Jqk27JIQ
 views: 3997
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Authored vs. Systemic: Finding a Balance for Combat AI in 'Uncharted 4'

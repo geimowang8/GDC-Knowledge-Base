@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZlShFdoAOxU
 views: 16064
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Mind Your Step: Avoiding 3 Common Pitfalls in AI Development

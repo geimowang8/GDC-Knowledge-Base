@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8uE6-vIi1rQ
 views: 668791
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Cursed Problems in Game Design

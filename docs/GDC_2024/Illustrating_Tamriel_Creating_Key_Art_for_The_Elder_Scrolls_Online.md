@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=xvDVu4NmIKU
 views: 7533
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Illustrating Tamriel: Creating Key Art for The Elder Scrolls Online

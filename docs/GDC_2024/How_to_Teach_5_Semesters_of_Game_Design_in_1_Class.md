@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uoc0U-WsPa0
 views: 45231
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Teach 5 Semesters of Game Design in 1 Class

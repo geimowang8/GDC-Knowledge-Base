@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=CWi5gjxdh4o
 views: 37427
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Devil May Cry 5: Creating a Standout Action Game

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jCCSMhAFHUQ
 views: 4646
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Taming Technologies Behind Astro Bot Rescue Mission

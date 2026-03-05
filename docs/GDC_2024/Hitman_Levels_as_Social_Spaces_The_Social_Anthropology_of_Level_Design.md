@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SpRJuinc9AM
 views: 11597
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Hitman Levels as Social Spaces: The Social Anthropology of Level Design

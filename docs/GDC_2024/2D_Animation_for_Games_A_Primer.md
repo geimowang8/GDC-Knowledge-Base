@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=PKZJmHrG4Yw
 views: 49068
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 2D Animation for Games: A Primer

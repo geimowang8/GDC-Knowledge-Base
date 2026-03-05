@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=82z_sZRl93M
 views: 7426
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Cinematic Games Are Dead! Long Live Cinematic Games!

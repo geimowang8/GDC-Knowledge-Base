@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Fo-238XJaq8
 views: 10635
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing for Multiple Minds: Crafting the Craft of Player Dynamics

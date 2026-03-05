@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4xiwRlSysIo
 views: 1709
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Life as a Composer: Striking a Balance

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=c2YRVWZupwo
 views: 30042
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Integrating Narrative into Game Design: A Portal Post-Mortem

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_VnjiFhPbZ0
 views: 2100
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # OpenXR News: Converging on a Widely Accepted VR API Standard

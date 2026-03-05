@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=OTu_NlUisjY
 views: 3038
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Adapting: Working in Games with Chronic Illness

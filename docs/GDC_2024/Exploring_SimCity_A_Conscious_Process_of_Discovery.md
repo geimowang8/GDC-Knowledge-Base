@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=eZfj7LEFT98
 views: 11249
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Exploring SimCity: A Conscious Process of Discovery

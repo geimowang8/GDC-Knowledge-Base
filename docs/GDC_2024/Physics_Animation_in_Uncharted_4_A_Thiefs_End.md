@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7S-_vuoKgR4
 views: 122775
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Physics Animation in Uncharted 4: A Thief's End

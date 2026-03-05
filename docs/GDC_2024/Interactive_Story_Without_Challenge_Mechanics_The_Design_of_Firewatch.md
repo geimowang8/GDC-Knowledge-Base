@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RVFyRV43Ei8
 views: 35383
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Interactive Story Without Challenge Mechanics: The Design of Firewatch

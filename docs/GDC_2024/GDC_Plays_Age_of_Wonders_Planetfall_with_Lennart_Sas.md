@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=gJznYYn3g1A
 views: 2229
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC Plays Age of Wonders: Planetfall with Lennart Sas

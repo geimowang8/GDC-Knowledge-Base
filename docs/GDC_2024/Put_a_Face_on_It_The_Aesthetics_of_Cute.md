@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=48oUuFJbsrg
 views: 35682
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Put a Face on It: The Aesthetics of Cute

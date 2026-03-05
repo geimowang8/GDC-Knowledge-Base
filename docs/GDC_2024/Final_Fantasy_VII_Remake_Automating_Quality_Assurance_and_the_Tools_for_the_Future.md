@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=L2bJ4E_4zN8
 views: 14333
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 'Final Fantasy VII' Remake: Automating Quality Assurance and the Tools for the Future

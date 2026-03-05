@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=9oGfI4o6Xfs
 views: 61410
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Small Teams, Big Dreams: How to Build a Small Team to Do Great Things

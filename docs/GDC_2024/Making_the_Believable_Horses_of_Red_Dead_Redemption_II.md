@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8vtCqfFAjKQ
 views: 46997
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Making the Believable Horses of 'Red Dead Redemption II'

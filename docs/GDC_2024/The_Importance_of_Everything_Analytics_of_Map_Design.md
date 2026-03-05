@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ij2nmt3EuJY
 views: 30707
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Importance of Everything: Analytics of Map Design

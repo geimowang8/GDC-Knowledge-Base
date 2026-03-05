@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=COqSiGFnK50
 views: 43925
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Art Direct for 100 MPH: Balancing Visuals with Performance for Forza Motorsport

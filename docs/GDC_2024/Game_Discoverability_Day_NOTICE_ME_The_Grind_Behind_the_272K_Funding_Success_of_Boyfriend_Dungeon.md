@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-b9MmORx0eg
 views: 11322
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Discoverability Day: NOTICE ME: The Grind Behind the $272K Funding Success of Boyfriend Dungeon

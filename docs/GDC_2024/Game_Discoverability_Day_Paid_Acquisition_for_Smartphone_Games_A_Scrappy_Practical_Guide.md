@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fV-L1WtZiM4
 views: 12362
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Discoverability Day: Paid Acquisition for Smartphone Games: A Scrappy, Practical Guide

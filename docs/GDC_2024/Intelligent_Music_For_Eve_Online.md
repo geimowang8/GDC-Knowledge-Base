@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=J6QQg0-308M
 views: 5183
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Intelligent Music For Eve Online

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RAy8UoO2blc
 views: 14432
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Rendering Rainbow Six Siege

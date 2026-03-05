@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uS9BgDtQ5Rw
 views: 5840
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Benefits and Challenges of Supporting Third-Party Developers in Eve Online

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=M7547aZkDzY
 views: 10195
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Being Neurodivergent Means in Game Development

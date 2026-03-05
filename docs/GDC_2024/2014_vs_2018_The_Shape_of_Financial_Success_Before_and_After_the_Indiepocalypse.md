@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sIqz5xmQKnc
 views: 70736
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 2014 vs. 2018: The Shape of Financial Success Before and After the Indiepocalypse

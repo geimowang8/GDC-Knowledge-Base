@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=s0b89tpU8GU
 views: 18890
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Run a Studio Without a Surprise Hit

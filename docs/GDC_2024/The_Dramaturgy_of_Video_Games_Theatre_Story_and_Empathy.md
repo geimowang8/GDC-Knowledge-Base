@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UzOqGDOti7g
 views: 6304
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Dramaturgy of Video Games Theatre, Story and Empathy

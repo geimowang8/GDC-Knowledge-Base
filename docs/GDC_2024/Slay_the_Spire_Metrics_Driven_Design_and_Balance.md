@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7rqfbvnO_H0
 views: 68046
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Slay the Spire: Metrics Driven Design and Balance

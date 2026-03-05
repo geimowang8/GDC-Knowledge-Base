@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RkS8DmGqUmk
 views: 6107
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 4K Checkerboard in Battlefield 1 and Mass Effect Andromeda

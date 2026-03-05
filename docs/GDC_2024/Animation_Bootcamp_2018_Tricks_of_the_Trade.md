@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=o1tti636Kag
 views: 39659
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Animation Bootcamp: 2018 Tricks of the Trade

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=U2db40RZGK0
 views: 8187
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Games that Change Lives: Social Impact Done Right

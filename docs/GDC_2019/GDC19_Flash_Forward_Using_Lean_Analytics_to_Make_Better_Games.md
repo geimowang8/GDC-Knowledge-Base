@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jLF-kdhOU4o
 views: 1742
 year: 2019
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC19 Flash Forward: Using Lean Analytics to Make Better Games

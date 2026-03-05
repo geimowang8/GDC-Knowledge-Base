@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fShx5qVhF3k
 views: 4412
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Lessons From Theatre That Can Transform XR Experiences

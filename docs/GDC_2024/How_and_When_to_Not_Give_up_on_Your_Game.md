@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=DuoZsrUcdd8
 views: 24170
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How (and When) to Not Give up on Your Game

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_j12AOrQnqA
 views: 5739
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating a Horror Score on a Shoestring Budget

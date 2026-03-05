@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=oB1ocMxccCc
 views: 6035
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Dev Archeology: Unearthing and Preserving Japanese Game History

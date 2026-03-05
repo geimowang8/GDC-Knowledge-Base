@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=h5H7cKzIY9U
 views: 10504
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Implementing Pixar's Brain Trust Model at King and How It All Went Wrong

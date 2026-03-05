@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ks1XGS2JS6s
 views: 11307
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Discoverability Day: Crowdfunding Your Video Game in 2019

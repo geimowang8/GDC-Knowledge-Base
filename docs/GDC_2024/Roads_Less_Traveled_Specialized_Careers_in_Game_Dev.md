@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UQGNtW7lxxs
 views: 5611
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Roads Less Traveled: Specialized Careers in Game Dev

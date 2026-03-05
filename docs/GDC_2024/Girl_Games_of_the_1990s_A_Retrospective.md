@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sFH2wa22lRM
 views: 5794
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Girl Games of the 1990s: A Retrospective

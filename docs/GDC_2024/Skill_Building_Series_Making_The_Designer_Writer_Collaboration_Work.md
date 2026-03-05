@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cGCsW9moVIE
 views: 6253
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Skill-Building Series: Making The Designer-Writer Collaboration Work

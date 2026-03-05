@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=u2jP0vTpAow
 views: 2433
 year: 2020
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC20 Flash Forward: Designing Serious Games for Rehabilitation in AR and VR Environments

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=E8Lhqri8tZk
 views: 153142
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 1,500 Slot Machines Walk into a Bar: Adventures in Quantity Over Quality

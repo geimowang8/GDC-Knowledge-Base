@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pxQMeq-Bpro
 views: 7012
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Inside The New Xbox Series X|S With Microsoft's Jason Ronald - GDC Podcast

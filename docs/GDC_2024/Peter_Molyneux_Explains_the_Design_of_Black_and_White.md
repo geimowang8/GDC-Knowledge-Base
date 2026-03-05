@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=69HTviSeQeE
 views: 17432
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Peter Molyneux Explains the Design of Black and White

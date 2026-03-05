@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vj-mz5piYYY
 views: 16317
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How an Outbreak in WoW is Helping Epidemiologists Create Better Disease Models

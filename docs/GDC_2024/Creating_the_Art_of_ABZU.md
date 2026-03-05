@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=l9NX06mvp2E
 views: 72896
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating the Art of ABZU

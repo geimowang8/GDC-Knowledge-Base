@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=BjrO-di22v8
 views: 12368
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Future of Storytelling: How Medium Shapes Story

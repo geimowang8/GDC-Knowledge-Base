@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QP2zYjN44N4
 views: 3072
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Fast, Cheap and Flashy: An Indie Art Direction Adventure

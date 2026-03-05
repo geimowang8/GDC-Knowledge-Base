@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=00OeOcomg_I
 views: 2080
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: Data Binding Architectures for Rapid UI Creation in Unity

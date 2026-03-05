@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=b-abDC0i3Cs
 views: 9597
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Getting the Most Out of an Entry-Level Games Job

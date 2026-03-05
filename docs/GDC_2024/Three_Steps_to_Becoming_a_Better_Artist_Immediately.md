@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=amlwcI8dh_g
 views: 175670
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Three Steps to Becoming a Better Artist Immediately

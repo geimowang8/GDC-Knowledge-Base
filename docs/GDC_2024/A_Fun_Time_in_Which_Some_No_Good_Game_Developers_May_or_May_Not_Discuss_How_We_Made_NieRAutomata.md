@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=jKbH9i5axxU
 views: 154629
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Fun Time in Which Some No-Good Game Developers May or May Not Discuss How We Made NieR:Automata

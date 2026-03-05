@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=idGHSezExTs
 views: 7539
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing the Bustling Soundscape of New York City in 'Marvel's Spider-Man'

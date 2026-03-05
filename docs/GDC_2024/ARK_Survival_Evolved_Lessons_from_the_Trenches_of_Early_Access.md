@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZwsKuTMaRmg
 views: 7591
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # ARK: Survival Evolved: Lessons from the Trenches of Early Access

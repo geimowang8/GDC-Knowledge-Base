@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=2VwTVIEge1g
 views: 35088
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Splatoon and Splatoon 2: How to Invent a Stylish Franchise with Global Appeal

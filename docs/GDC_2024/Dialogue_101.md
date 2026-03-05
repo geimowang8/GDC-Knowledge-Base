@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=W7-gIHOOues
 views: 7484
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Dialogue 101

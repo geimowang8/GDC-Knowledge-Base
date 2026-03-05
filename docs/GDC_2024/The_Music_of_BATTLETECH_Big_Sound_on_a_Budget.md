@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=swVNN8OJWR8
 views: 4801
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Music of BATTLETECH: Big Sound on a Budget

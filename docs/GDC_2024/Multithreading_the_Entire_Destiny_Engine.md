@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=v2Q_zHG3vqg
 views: 46740
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Multithreading the Entire Destiny Engine

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cPdbTtR0nOo
 views: 17669
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # ARMS: Building Mario Kart 8 Insights into a Showcase Nintendo Switch Fighter

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=wOlcB-JxkFw
 views: 119569
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Antichamber: An Overnight Success, Seven Years In The Making

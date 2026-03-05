@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tSyt0alpoyg
 views: 24117
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # It's About Time: System Design for Mobile Free-to-Play

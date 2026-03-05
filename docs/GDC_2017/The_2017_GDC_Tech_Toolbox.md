@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ujl0gzj-89g
 views: 10085
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The 2017 GDC Tech Toolbox

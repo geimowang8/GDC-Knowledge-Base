@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0-qn-KVXd8U
 views: 3253
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Extreme Makeover Game School Edition: Do It With or Without a Grant

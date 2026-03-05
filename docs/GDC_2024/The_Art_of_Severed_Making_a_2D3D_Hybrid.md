@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=nzJ4llBQ6OY
 views: 13882
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Art of Severed: Making a 2D/3D Hybrid

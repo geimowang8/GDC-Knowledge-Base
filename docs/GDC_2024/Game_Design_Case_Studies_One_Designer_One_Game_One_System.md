@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5UdVNmbIClM
 views: 31938
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Design Case Studies - One Designer | One Game | One System

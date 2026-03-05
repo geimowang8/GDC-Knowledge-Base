@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QcA9nW7ebP8
 views: 5408
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Encourage Social and Emotional Learning In-Game in a Data and Research Driven Manner

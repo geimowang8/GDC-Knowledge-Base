@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=RdN06E6Xn9E
 views: 158485
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Low Complexity, High Fidelity: The Rendering of INSIDE

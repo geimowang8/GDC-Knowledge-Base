@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=CozTtfhwPX0
 views: 11210
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Gamer's Brain, Part 3: The UX of Engagement and Immersion (or Retention)

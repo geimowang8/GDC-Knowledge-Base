@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VwFnQVnO8pE
 views: 13238
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Illustrating Fantasy in League of Legends

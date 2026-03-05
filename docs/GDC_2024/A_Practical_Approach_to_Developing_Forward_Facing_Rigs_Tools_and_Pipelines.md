@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=3l5tgk8hRn4
 views: 12505
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Practical Approach to Developing Forward-Facing Rigs, Tools and Pipelines

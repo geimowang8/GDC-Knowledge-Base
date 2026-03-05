@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=lA5HG8Q4sKg
 views: 108394
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating Compelling Characters: Insights from a Panel of Character Concept Artists

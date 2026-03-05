@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=TCf1GdRrerw
 views: 9646
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Winding Road Ahead: Designing Utility AI with Curvature

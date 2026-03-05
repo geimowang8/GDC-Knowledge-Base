@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Nht_e-fhOCU
 views: 4517
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Ghost in the Empathy Machine: Exploring Player-Character Connection in Life is Strange: True Colors

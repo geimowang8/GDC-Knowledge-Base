@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sy8TOPGplUM
 views: 4691
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Visual Effects Bootcamp: Bringing Feature Film Effects to Real-Time VR: Part 1

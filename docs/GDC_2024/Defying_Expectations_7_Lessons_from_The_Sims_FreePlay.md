@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=K65xC25INEg
 views: 5846
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Defying Expectations: 7 Lessons from The Sims FreePlay

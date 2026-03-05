@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=U4FNBMZsqrY
 views: 1487665
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # DOOM: Behind the Music

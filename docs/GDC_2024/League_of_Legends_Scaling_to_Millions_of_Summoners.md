@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yRMM2cEQ89c
 views: 6735
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # League of Legends: Scaling to Millions of Summoners

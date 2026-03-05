@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=hHtPMfF4YV8
 views: 1874
 year: 2019
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC19 Flash Forward: Tetris World Championship: Building Explosive Esports on 8-bit Nintendo

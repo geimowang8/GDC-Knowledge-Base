@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=LuNH9Rz2e2k
 views: 33345
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Level Design Saga: Creating Levels for Casual Games

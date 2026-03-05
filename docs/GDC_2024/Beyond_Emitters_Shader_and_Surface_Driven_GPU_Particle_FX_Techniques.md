@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yG4ChOPyC-4
 views: 12753
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Beyond Emitters: Shader and Surface Driven GPU Particle FX Techniques

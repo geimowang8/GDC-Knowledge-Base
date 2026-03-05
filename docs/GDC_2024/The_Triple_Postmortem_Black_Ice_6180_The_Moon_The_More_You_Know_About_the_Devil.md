@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=velbNA3Svdc
 views: 2503
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Triple Postmortem - Black Ice, 6180 The Moon, The More You Know (About the Devil)

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=JrTjPxaDJgE
 views: 8937
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # NPCs Have Feelings Too: Verbal Interactions with Emotional Character AI

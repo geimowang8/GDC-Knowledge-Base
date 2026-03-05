@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5NEqqz5eq_w
 views: 3103
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 'Insurrection 1944': Bringing Interactive Storytelling to a Museum's Audience

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vcEA41eBOGs
 views: 57459
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # No Man's Sky: How I Learned to Love Procedural Art

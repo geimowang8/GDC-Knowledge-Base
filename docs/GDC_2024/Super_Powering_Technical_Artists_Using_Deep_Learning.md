@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=N6zoHLdMs3Q
 views: 7152
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Super Powering Technical Artists Using Deep Learning

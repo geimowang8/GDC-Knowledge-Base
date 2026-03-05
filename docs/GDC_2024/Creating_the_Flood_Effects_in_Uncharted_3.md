@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=t8vplu0JXR4
 views: 9552
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating the Flood Effects in Uncharted 3

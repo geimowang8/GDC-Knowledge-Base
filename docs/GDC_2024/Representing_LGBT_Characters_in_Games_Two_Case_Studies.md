@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=MdxSG2Ak2Zw
 views: 10392
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Representing LGBT+ Characters in Games: Two Case Studies

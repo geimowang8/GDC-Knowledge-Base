@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YFvR3RPYTwk
 views: 5549
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Our Games Are Not Linear, So Why Are Our Careers?

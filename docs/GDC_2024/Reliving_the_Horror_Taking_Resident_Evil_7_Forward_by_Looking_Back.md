@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=PwBDtp7R6aM
 views: 27881
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Reliving the Horror: Taking Resident Evil 7 Forward by Looking Back

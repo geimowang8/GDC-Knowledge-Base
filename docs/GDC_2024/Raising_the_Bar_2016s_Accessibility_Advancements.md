@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=2RhrH1R9LJw
 views: 1841
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Raising the Bar: 2016's Accessibility Advancements

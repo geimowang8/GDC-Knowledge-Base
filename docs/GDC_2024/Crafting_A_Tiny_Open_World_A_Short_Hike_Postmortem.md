@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ZW8gWgpptI8
 views: 370176
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Crafting A Tiny Open World: A Short Hike Postmortem

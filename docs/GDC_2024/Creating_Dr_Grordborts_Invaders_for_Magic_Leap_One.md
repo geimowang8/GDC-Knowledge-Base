@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=xQY_nJ1tAbI
 views: 2553
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Creating Dr. Grordbort's Invaders for Magic Leap One

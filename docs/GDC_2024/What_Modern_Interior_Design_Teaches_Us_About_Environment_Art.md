@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HpjbkKjqPE8
 views: 12437
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Modern Interior Design Teaches Us About Environment Art

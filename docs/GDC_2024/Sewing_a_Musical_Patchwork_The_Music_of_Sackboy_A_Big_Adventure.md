@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=e9J9A7EwFpc
 views: 3715
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Sewing a Musical Patchwork: The Music of 'Sackboy: A Big Adventure'

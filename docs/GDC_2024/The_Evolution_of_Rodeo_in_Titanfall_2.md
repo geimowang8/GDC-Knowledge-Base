@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=47WKztewKmU
 views: 7984
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Evolution of Rodeo in Titanfall 2

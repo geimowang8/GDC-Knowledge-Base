@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uikbLyi-cug
 views: 23003
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Parkour: How to Improve Freedom of Movement in First-Person Games in 20 Simple Steps

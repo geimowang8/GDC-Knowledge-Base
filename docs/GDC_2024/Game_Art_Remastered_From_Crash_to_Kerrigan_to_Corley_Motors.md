@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6NSEzm0qy1s
 views: 6025
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Art Remastered: From Crash, to Kerrigan, to Corley Motors

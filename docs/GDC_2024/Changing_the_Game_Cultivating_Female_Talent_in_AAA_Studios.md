@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=nQmkvDP-jyo
 views: 7352
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Changing the Game: Cultivating Female Talent in AAA Studios

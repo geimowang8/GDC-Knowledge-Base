@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ONYmBBZiBj8
 views: 19728
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Immersing a Creative World into a Usable UI

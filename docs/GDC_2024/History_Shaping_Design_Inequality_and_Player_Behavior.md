@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sdmPSjQ-OaE
 views: 4978
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # History Shaping Design: Inequality and Player Behavior

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0FoG4Jtpebs
 views: 9651
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Matchmaking for Engagement: Lessons from Halo 5

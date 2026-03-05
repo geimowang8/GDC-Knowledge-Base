@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5uilbql8a0U
 views: 12373
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Go from Good to Great

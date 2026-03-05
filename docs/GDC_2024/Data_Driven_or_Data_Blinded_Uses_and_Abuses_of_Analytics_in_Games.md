@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=MR2rorssk9c
 views: 14486
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Data-Driven or Data-Blinded? Uses and Abuses of Analytics in Games

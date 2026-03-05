@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pmSAG51BybY
 views: 151409
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Feel: Why Your Death Animation Sucks

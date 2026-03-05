@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ePQcAjuiSEo
 views: 44338
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Practical IP Law for Indie Developers 301: Plain Scary Edition

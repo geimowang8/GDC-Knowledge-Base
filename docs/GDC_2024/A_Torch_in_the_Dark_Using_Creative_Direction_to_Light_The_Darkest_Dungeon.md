@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=k4ETK1C1KNs
 views: 45861
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Torch in the Dark: Using Creative Direction to Light The Darkest Dungeon

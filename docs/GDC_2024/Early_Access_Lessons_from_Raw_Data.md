@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=OTgvqfHWMGM
 views: 4307
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Early Access Lessons from Raw Data

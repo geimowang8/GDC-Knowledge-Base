@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=AaYxajPfPS4
 views: 8037
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Ten Years with Thoreau: What a Hermit Can Teach About Game Design

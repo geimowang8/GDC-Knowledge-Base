@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cvu8piiLVjA
 views: 4317
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Faking Mixed Reality: Building Reality Simulators

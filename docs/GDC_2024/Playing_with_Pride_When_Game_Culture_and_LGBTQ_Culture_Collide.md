@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=lN5Qe4F-wBQ
 views: 5940
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Playing with Pride: When Game Culture and LGBTQ Culture Collide

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=BSoB19aE9RM
 views: 9312
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Modular, Reusable Social Behavior In Video Game AI

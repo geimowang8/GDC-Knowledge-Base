@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kh5943JFty4
 views: 3596
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Why Survios Builds New Tech for Every Title: Battlewake Case Study

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=k7sizxMamls
 views: 16357
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Assassin's Creed Syndicate: London Wasn't Built in a Day

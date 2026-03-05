@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=aACSkV-xXF8
 views: 5828
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Meditation for Devs: Maintaining Your Sanity for Crunch and Beyond

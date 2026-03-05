@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YL6iKPbT87g
 views: 2598
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # IL Gigante: Michelangelo's David in VR

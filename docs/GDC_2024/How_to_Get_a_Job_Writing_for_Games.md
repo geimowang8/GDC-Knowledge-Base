@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1eNZZbpOHoU
 views: 39267
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Get a Job Writing for Games

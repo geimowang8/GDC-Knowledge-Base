@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HsmYmUD3VoI
 views: 2632
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Poly Bridge and Social Media: A Love Story

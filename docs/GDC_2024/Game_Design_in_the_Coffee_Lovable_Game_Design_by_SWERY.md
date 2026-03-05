@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=X7BOrpsMY9w
 views: 8362
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Design in the Coffee. Lovable Game Design by SWERY

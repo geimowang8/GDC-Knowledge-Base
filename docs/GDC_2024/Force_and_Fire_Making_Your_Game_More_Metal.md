@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XH2FTItPd9k
 views: 8718
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Force and Fire: Making Your Game More Metal

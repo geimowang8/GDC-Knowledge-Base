@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=2o4UW1Ldx2Y
 views: 5336
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Cruel Fate: Emergent Tragedies in The Shrouded Isle

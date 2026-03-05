@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=CsEarIi8RCQ
 views: 5559
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Prioritize Your Dev Efforts in an Era of Rising Costs

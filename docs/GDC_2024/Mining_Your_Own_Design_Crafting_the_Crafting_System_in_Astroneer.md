@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=oCwQtZcLrVs
 views: 11633
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Mining Your Own Design: Crafting the Crafting System in Astroneer

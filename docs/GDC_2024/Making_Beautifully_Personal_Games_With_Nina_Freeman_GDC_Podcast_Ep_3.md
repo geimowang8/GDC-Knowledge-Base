@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=x9kMk1Uf0sI
 views: 4854
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Making Beautifully Personal Games With Nina Freeman - GDC Podcast Ep. 3

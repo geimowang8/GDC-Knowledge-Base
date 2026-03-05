@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=WS-2-Q7RWLk
 views: 10469
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building Customizable Characters for Destiny

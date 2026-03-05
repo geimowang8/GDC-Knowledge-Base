@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=r-gxa2Z3rOs
 views: 2375
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AMA: Diverse Teams

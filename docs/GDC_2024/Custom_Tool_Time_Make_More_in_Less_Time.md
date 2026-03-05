@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_mbOM06A5sA
 views: 19543
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Custom Tool Time: Make More in Less Time

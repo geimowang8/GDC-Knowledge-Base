@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=B1evPcFmddc
 views: 9793
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Leave Enough Room: Design that Supports Player Expression

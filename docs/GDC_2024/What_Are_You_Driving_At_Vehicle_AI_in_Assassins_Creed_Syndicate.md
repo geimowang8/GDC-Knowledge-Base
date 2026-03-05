@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tB88gTpdk48
 views: 5169
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Are You Driving At? Vehicle AI in Assassin's Creed Syndicate

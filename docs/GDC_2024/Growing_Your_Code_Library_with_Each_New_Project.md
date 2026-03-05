@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=o3X8IvJksGA
 views: 26966
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Growing Your Code Library with Each New Project

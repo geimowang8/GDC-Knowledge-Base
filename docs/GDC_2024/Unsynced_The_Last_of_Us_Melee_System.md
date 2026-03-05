@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Ox2H3kUQByo
 views: 47857
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Unsynced: The Last of Us Melee System

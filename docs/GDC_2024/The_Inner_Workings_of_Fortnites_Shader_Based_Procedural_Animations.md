@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7Fl3so0Z5Tc
 views: 26357
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Inner Workings of Fortnite's Shader-Based Procedural Animations

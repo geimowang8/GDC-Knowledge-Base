@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=aXTOUnzNo64
 views: 79365
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Lessons Learned Making Gunpoint Quickly Without Going Mad

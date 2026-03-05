@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yrG76QIH7Gg
 views: 9714
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Successful Product Managers Do Differently in Free-to-Play Games

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=QIy6azKY3x0
 views: 3505
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # (P)Layer Character: Designing Immersive Narratives for Location-Based AR Layers

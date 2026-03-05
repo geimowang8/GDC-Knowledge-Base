@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=F_1YcCcBVfY
 views: 127280
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Board Game Design Day: Board Game Design and the Psychology of Loss Aversion

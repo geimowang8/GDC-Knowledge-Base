@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=sL7v9ct6Gis
 views: 54073
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # One More Run: The Making of 'Spelunky 2'

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=-JFyAdI_rO8
 views: 51970
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 'Genshin Impact': Crafting an Anime-Style Open World

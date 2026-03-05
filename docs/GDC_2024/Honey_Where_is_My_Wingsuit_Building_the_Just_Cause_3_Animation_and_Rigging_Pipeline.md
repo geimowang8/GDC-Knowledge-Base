@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Tfw21ciEyZE
 views: 7863
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Honey, Where is My Wingsuit? - Building the Just Cause 3 Animation and Rigging Pipeline

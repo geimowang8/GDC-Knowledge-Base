@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Nsn3E3eGPhk
 views: 9394
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Peggle Blast: Big Concepts, Small Project

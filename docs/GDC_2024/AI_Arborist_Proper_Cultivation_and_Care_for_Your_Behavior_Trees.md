@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Qq_xX1JCreI
 views: 45250
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AI Arborist: Proper Cultivation and Care for Your Behavior Trees

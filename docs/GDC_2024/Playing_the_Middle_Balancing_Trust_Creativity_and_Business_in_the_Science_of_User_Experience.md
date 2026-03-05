@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4cM2dvQPC6w
 views: 2608
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Playing the Middle: Balancing Trust, Creativity, and Business in the Science of User Experience

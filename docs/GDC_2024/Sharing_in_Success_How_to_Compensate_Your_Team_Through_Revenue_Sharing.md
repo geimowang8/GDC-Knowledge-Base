@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_l8t2o0X_3k
 views: 4131
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Sharing in Success: How to Compensate Your Team Through Revenue Sharing

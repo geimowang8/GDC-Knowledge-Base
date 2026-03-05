@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=nJParAVA1TM
 views: 19608
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Why Make Games? Lessons from Frostpunk and This War Of Mine

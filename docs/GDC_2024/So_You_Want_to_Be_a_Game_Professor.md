@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Gy9dy1o25Ww
 views: 4807
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # So, You Want to Be a Game Professor?

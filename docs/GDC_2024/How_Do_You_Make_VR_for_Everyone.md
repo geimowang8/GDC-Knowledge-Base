@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=X-h_sDI06oc
 views: 5660
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How Do You Make VR for Everyone?

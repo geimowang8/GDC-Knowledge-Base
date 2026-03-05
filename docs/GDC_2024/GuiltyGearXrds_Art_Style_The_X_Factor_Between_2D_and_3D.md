@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=yhGjCzxJV3E
 views: 588999
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D

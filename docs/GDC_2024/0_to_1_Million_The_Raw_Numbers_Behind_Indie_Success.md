@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0A4ILaNWaL4
 views: 73953
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # $0 to $1 Million: The Raw Numbers Behind Indie Success

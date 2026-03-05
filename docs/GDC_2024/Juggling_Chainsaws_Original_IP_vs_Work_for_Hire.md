@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=UP9i0eQh5gM
 views: 4718
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Juggling Chainsaws: Original IP vs. Work for Hire

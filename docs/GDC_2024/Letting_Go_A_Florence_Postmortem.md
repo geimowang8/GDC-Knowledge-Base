@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=MhI03UIT70c
 views: 17459
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Letting Go: A Florence Postmortem

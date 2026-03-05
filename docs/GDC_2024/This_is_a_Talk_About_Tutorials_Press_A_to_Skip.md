@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=VM1pV_6IE34
 views: 51572
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # This is a Talk About Tutorials, Press A to Skip

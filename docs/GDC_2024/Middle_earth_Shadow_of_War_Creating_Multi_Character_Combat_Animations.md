@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=j0Bl_nBonos
 views: 11795
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Middle-earth: Shadow of War: Creating Multi-Character Combat Animations

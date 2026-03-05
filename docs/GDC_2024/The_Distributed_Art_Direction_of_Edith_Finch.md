@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=vy1mz8xWI-k
 views: 7934
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Distributed Art Direction of Edith Finch

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=NfRtRldvnkA
 views: 10283
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Zen and the Art of Game Audio Maintenance

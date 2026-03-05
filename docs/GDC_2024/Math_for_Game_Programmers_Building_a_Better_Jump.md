@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=hG9SzQxaCm8
 views: 412935
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Math for Game Programmers: Building a Better Jump

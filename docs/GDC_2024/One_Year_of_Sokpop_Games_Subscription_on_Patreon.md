@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=7c2lYRWNxyY
 views: 14204
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # One Year of Sokpop Games Subscription on Patreon

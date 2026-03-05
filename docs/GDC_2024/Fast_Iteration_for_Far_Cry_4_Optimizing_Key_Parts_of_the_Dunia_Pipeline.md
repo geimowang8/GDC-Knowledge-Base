@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=AhmlFG1u1wE
 views: 6337
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Fast Iteration for Far Cry 4 - Optimizing Key Parts of the Dunia Pipeline

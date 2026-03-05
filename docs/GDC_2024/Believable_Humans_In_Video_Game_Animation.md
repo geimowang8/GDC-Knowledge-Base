@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Aj-zNjff7wY
 views: 22060
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Believable Humans (In Video Game Animation)

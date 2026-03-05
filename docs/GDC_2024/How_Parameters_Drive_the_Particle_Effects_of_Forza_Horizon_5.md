@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8Pk-yAp7J_8
 views: 9163
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How Parameters Drive the Particle Effects of 'Forza Horizon 5'

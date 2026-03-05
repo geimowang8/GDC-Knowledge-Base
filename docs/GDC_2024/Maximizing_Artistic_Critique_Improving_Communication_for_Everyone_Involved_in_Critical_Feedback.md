@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=5ZDls8L5ONE
 views: 15861
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Maximizing Artistic Critique: Improving Communication for Everyone Involved in Critical Feedback

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=X3FPHVBOuks
 views: 25549
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Get Journalists to Cover Your Game: Lessons from Online Dating, Praying and No Man's Sky

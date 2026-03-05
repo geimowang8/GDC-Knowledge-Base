@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=pddnbECfpR0
 views: 18360
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Porting a Real Life Castle into Your Game When You're Broke

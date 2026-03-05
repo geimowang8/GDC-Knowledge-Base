@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XTu1_EDwWYs
 views: 3814
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The UX Challenges of Adapting Classic UNO to Mobile

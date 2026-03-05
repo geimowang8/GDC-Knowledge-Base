@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6b69BYO-RW0
 views: 6277
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Missing: An Attempt at Complete Cohesion of Gameplay and Narrative

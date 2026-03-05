@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=IB28lsqUT3Q
 views: 21747
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Living World of The Witcher 3: The Wild Hunt

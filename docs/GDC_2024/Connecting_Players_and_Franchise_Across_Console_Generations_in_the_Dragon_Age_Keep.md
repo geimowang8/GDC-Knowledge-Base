@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XxtTD6QlOLc
 views: 3439
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Connecting Players and Franchise Across Console Generations in the Dragon Age Keep

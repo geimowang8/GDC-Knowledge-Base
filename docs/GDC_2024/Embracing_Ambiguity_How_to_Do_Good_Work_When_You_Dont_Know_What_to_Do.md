@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4DWdnoLosZ8
 views: 51406
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Embracing Ambiguity: How to Do Good Work When You Don't Know What to Do

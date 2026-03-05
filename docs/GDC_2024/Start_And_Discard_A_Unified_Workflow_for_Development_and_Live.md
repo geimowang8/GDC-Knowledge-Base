@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4h8EDGWCYks
 views: 4347
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Start-And-Discard: A Unified Workflow for Development and Live

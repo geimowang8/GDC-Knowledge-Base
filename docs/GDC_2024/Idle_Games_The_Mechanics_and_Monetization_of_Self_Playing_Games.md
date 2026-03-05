@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Lu-RjxeDpU8
 views: 81768
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Idle Games: The Mechanics and Monetization of Self-Playing Games

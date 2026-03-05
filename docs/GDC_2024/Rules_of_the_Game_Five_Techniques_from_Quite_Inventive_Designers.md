@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=d8QAVGeEj-U
 views: 171757
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Rules of the Game: Five Techniques from Quite Inventive Designers

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8lS6iUOx3fM
 views: 4862
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Cloud Gaming: Where Are We Now, Where Are We Going?

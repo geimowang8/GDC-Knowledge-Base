@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=M2VW2hk0jGc
 views: 8341
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Story Behind the Music and Sound Design for Star Wars: Battlefront

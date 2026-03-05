@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=W64fwW3Xg7s
 views: 3040
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Ask Me Anything: Unionizing the Games Industry Q&A with Kevin Agwaze

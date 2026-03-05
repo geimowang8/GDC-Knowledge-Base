@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=uViXS7ozcM8
 views: 11268
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Keep it Together: Encouraging Cooperative Behavior During Co-op Play

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=wAEQ7ujO89o
 views: 6684
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Selling Out: What a Year of F2P Taught an Art-House Indie

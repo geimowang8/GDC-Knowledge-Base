@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=04bt3aFwKc8
 views: 11492
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # MORTIS 101: 'FAITH's' Horror Design Toolkit

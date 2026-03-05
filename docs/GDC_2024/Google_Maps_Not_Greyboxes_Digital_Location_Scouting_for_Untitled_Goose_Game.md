@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tA-64QuWgLk
 views: 12848
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Google Maps, Not Greyboxes: Digital Location Scouting for 'Untitled Goose Game'

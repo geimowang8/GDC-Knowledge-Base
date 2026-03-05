@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=apfNODay1_s
 views: 37038
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Rogue Legacy Design Postmortem: Budget Development

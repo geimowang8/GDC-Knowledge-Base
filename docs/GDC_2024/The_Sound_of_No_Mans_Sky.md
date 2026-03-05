@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zKJ_XuQjjiw
 views: 15941
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Sound of No Man's Sky

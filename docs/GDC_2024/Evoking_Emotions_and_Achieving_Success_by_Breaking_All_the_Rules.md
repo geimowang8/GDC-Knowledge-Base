@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=zBhiE6QZjzY
 views: 14556
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Evoking Emotions and Achieving Success by Breaking All the Rules

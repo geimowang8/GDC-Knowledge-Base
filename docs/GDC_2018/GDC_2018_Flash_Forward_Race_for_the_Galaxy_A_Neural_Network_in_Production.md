@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=XZ7d3aVazX8
 views: 2452
 year: 2018
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2018 Flash Forward: 'Race for the Galaxy': A Neural Network in Production

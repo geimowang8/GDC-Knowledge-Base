@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=9wID9GoDHEI
 views: 4078
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # VR Demos: Do's and Don'ts for Making a Great First Impression

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=SejWMkVEKlE
 views: 4530
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # How to Rig a Human: Joint Health and Mobility for Developers

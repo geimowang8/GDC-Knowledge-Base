@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=0b6_nLvlEuw
 views: 7110
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Skill-Building Series: Emotion in Game Design (A UX Perspective)

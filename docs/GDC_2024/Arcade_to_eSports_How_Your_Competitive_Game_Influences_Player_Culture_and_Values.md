@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=JymM5VrmnDI
 views: 9726
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Arcade to eSports: How Your Competitive Game Influences Player Culture and Values

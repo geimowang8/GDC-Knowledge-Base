@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=HqWrdIf69M8
 views: 14658
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Remastering Day of the Tentacle and Grim Fandango

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=j-5BaEoSU8Y
 views: 36167
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Slay the Spire: Success through Marketability

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=t8UFJ3obm-Q
 views: 23548
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Practical Contract Law 201 for Indie Developers: Moderately Scary Edition

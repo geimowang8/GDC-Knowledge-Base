@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=fSjlHvdq7SM
 views: 13218
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AI Wish List: What Do Designers Want out of AI?

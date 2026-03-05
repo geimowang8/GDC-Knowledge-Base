@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=CKe5s2Hb6aE
 views: 6515
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Bringing Players Together: Building Cross Play for 'Destiny 2'

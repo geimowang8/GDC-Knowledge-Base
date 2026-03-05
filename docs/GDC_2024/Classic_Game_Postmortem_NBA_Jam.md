@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Dp3Os2kk6V4
 views: 30622
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Classic Game Postmortem: NBA Jam

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ohuNWkFjd7E
 views: 9628
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building An Intelligent Game Testing System in Netease MMORPG Games

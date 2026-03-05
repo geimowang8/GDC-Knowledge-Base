@@ -1,0 +1,131 @@
+# GDC 知识库统计信息
+
+## 📊 资料库规模
+
+| 指标 | 数值 |
+|---|---|
+| **总转录文件数** | 1,655 个 |
+| **跳过的文件** | 82 个 (无法从 YouTube 获取元数据或转录) |
+| **总存储大小** | ~99 MB |
+| **年份覆盖范围** | 2000-2024 年 |
+
+## 📈 按年份分布
+
+| 年份 | 演讲数 | 备注 |
+|---|---|---|
+| GDC 2024 | 1,574 | 最新年份，内容最丰富 |
+| GDC 2017 | 38 | 较早年份 |
+| GDC 2019 | 22 | 较早年份 |
+| GDC 2018 | 14 | 较早年份 |
+| GDC 2016 | 1 | 较早年份 |
+| GDC 2022 | 1 | 较早年份 |
+| GDC 2021 | 1 | 较早年份 |
+| GDC 2020 | 2 | 较早年份 |
+| GDC 2015 | 1 | 较早年份 |
+| GDC 2000 | 1 | 最早年份 |
+
+## 📁 文件结构
+
+```
+GDC-Knowledge-Base/
+├── docs/                          # 所有转录内容
+│   ├── GDC_2024/                  # 2024 年演讲（1559 个文件）
+│   ├── GDC_2017/                  # 2017 年演讲（49 个文件）
+│   ├── GDC_2018/                  # 2018 年演讲（19 个文件）
+│   └── ...                        # 其他年份
+├── scripts/                       # 工具脚本
+│   └── convert_transcripts.py     # 转录转换脚本
+├── README.md                      # 项目说明
+├── CONTRIBUTING.md                # 贡献指南
+├── INDEX.md                       # 完整索引
+├── STATS.md                       # 本文件
+└── .gitignore                     # Git 忽略规则
+```
+
+## 🔍 文件示例
+
+每个 Markdown 文件包含以下结构：
+
+```markdown
+---
+title: "演讲标题"
+video_id: U4FNBMZsqrY
+url: https://www.youtube.com/watch?v=U4FNBMZsqrY
+views: 1487665
+year: 2024
+tags: [GDC, GameDev, Transcript]
+date_added: 2026-02-05
+---
+
+# 演讲标题
+
+## 视频信息
+- **视频 ID**: U4FNBMZsqrY
+- **观看次数**: 1487665
+- **年份**: 2024
+
+## 视频链接
+[在 YouTube 上观看](https://www.youtube.com/watch?v=U4FNBMZsqrY)
+
+## 转录内容
+[完整的纯文本转录...]
+```
+
+## 🚀 快速使用
+
+### 浏览内容
+
+1. **按年份浏览**：进入 `docs/GDC_XXXX/` 目录
+2. **搜索演讲**：使用 GitHub 的搜索功能或本地编辑器的全文搜索
+3. **查看索引**：打开 `INDEX.md` 查看完整的演讲列表
+
+### 本地克隆
+
+```bash
+git clone https://github.com/geimowang8/GDC-Knowledge-Base.git
+cd GDC-Knowledge-Base
+```
+
+### 搜索特定内容
+
+使用 `grep` 搜索所有转录中的特定关键词：
+
+```bash
+grep -r "游戏设计" docs/
+grep -r "人工智能" docs/
+grep -r "性能优化" docs/
+```
+
+## 🔄 更新与维护
+
+### 添加新内容
+
+1. 在相应的 `docs/GDC_XXXX/` 目录中创建新的 Markdown 文件
+2. 按照文件格式模板填写内容
+3. 提交 Pull Request
+
+### 运行转换脚本
+
+如果需要重新处理源数据：
+
+```bash
+python3 scripts/convert_transcripts.py
+```
+
+## ⚠️ 注意事项
+
+- **年份准确性**：部分文件的年份是基于启发式方法推断的，可能存在错误
+- **转录质量**：转录内容来自社区项目，可能存在错误或不完整之处
+- **版权**：所有内容均来自 GDC 官方发布的视频，使用时请遵守相关版权政策
+- **异常数据**：GDC 2077 的数据可能是错误的，需要手动验证
+
+## 📞 反馈与建议
+
+如发现任何问题或有改进建议，欢迎：
+- 提交 Issue
+- 发起 Pull Request
+- 联系维护者
+
+---
+
+**最后更新**：2026 年 2 月 5 日

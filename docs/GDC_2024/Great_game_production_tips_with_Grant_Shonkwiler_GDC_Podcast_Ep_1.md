@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=x3_HrP9NZss
 views: 4283
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Great game production tips with Grant Shonkwiler - GDC Podcast Ep. 1

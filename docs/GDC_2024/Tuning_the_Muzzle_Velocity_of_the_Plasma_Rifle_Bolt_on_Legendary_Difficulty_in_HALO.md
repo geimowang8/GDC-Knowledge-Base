@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=ikvheFiDsYY
 views: 8752
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Tuning the Muzzle Velocity of the Plasma Rifle Bolt on Legendary Difficulty in HALO

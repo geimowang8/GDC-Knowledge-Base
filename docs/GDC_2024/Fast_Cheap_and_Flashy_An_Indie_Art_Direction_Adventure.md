@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=rSk8adHotDA
 views: 106260
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Fast, Cheap and Flashy An Indie Art Direction Adventure

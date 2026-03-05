@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Q1Tczf8vxCM
 views: 160136
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Stop Getting Lost: Make Cognitive Maps, Not Levels

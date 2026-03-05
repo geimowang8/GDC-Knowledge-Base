@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=DY29CfUKOAA
 views: 4576
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # John Murphy, Kevin Zuhn and Adam Saltsman on 'Bugsnax'

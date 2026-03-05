@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=C9RyEiEzMiU
 views: 88563
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Building Worlds in No Man's Sky Using Math(s)

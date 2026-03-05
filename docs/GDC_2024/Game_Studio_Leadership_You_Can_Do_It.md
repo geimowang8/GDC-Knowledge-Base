@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=O1zP6yJjc1o
 views: 42122
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Studio Leadership: You Can Do It

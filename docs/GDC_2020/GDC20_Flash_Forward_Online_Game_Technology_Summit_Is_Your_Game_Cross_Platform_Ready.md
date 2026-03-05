@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=9sjX2kX2N7g
 views: 1996
 year: 2020
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC20 Flash Forward: Online Game Technology Summit: Is Your Game Cross-Platform Ready?

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=YyQfP1GjdJ8
 views: 13953
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Snap to Character: Building Strong Player Attachment Through Narrative

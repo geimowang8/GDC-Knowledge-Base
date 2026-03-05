@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Dg251Z45avA
 views: 13535
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What They Don't Teach You in Art School: Lessons for First Time Leads

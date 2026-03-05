@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=NwPIoVW65pE
 views: 35526
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Designing with Physics: Bend the Physics Engine to Your Will

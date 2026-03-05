@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=GzAU7D3Woco
 views: 6518
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The 2019 Indie Soapbox

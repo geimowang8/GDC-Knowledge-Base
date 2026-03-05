@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=1p2Xk5zXr9k
 views: 1582
 year: 2017
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # GDC 2017 Flash Forward: How We Tapped a Non-Game Community to Build Support for Our Release on Steam

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=63UOLVP4dYk
 views: 5214
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Obsessive-Compulsive Development: Retro/Grade Postmortem

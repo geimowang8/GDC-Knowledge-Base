@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=qiV4Um77bnc
 views: 8262
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Queens of the Phone Age: The Narrative Design of Reigns: Her Majesty

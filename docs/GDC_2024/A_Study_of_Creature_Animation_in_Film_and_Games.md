@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=tBz7LlbvXFI
 views: 48303
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # A Study of Creature Animation in Film and Games

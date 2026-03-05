@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=OEaGEaCUq3g
 views: 51877
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Concrete Jungle Gym: Building Traversal in Marvel's Spider-Man

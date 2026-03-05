@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=iWEVY4ujyI4
 views: 27430
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Animation Style and Process for Broken Age

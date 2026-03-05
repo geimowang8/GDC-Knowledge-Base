@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=kquyK8pE81s
 views: 9041
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Shoot for the Sky: The Ambitious HDR Time-Lapse Skies of Forza Horizon 3

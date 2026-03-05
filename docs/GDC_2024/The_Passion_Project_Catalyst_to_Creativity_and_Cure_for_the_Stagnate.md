@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=8qnon5buKL8
 views: 11490
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Passion Project:  Catalyst to Creativity and Cure for the Stagnate

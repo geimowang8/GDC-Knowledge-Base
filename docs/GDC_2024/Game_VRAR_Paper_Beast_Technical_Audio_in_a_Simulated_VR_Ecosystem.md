@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=TYxfmFi-tJg
 views: 4395
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game VR/AR: Paper Beast: Technical Audio in a Simulated VR Ecosystem

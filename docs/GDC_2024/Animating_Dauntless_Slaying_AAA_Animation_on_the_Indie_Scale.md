@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=6TB62YKHwRQ
 views: 80844
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Animating Dauntless: Slaying AAA Animation on the Indie Scale

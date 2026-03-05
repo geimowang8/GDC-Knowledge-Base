@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=aMcJ1Jvtef0
 views: 528583
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # 8 Bit & '8 Bitish' Graphics-Outside the Box

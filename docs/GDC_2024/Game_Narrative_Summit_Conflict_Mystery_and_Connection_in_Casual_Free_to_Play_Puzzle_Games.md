@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=gZi3pThb6Os
 views: 6038
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Game Narrative Summit: Conflict, Mystery, and Connection in Casual, Free to Play Puzzle Games

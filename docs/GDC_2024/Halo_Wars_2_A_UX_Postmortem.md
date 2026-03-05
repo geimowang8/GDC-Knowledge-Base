@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=slHO2DuC7VI
 views: 6679
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Halo Wars 2: A UX Postmortem

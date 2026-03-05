@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=_pJTePIv2RY
 views: 8538
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Democratizing Real-Time Filmmaking Technologies for Indie Game Developers

@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=KxcXUYx3eLQ
 views: 18977
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Knocking on Death's Door: Designing a New Bunker for 'Horizon Forbidden West'

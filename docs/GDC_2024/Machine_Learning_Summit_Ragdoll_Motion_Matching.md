@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=JZKaqQKcAnw
 views: 30111
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Machine Learning Summit: Ragdoll Motion Matching

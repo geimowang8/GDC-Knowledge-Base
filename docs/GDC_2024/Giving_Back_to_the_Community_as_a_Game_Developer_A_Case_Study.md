@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=d7qZIhTrt3c
 views: 3405
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Giving Back to the Community as a Game Developer: A Case Study

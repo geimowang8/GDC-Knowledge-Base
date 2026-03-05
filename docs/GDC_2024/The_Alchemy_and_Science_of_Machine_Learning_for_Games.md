@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Eim_0jCQW_g
 views: 21928
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # The Alchemy and Science of Machine Learning for Games

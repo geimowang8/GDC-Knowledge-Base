@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=Zr4u5Kf_CT4
 views: 23703
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # Playtesting 'God of War'

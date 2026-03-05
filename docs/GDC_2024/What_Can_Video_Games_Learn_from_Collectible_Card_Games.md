@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=cJtXYuSOe8g
 views: 10979
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # What Can Video Games Learn from Collectible Card Games?

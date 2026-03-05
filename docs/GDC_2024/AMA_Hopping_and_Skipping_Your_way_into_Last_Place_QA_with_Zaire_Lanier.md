@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=V_YYm-Oz2qo
 views: 2266
 year: 2024
 tags: [GDC, GameDev, Transcript]
-date_added: 2026-03-03
+date_added: 2026-03-05
 ---
 
 # AMA: Hopping and Skipping Your way into Last Place Q&A with Zaire Lanier
