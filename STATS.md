@@ -149,4 +149,4 @@ python3 scripts/convert_transcripts.py
 
 ---
 
-**最后更新**：2026 年 2 月 5 日
+**最后更新**：2026 年 3 月 6 日
